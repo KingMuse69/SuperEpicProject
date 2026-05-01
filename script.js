@@ -9,14 +9,12 @@ const standData = {
         image: "hand_stand.png",
         stats: "hand_stats.png",
         link: "https://www.youtube.com/watch?v=FFqb1I-hiHE",
-        video: "https://www.youtube.com/embed/FFqb1I-hiHE?si=haib8gkF3jKRaGNX",
         power: "Anything The Hand's right palm touches when it does a swiping motion with its arm is erased from this universe, be it physical matters or space itself. Okuyasu states that not even he knows where the voided objects go. Objects that are subjected to the ability appear as if an extremely sharp blade had sliced clean through them. Whenever The Hand erases something, the resulting voided space is unable to sustain itself, and reality will immediately be filled and 'stitched up' by adjacent space and objects, effectively removing any traces of the removed object's existence. When Okuyasu used this ability on the middle of a sign that read 'NO TRESPASSING', the sign was changed to read 'NO PASSING'."
     },
     "Heavens Door": {
         image: "hd_stand.png",
         stats: "hd_stats.png",
         link: "https://www.youtube.com/watch?v=k04tX2fvh0o",
-        video: "https://www.youtube.com/embed/gXVGZv9Ya6w?si=w-M6KHWWDlFWBoA9",
         power: "Heaven's Door's basic ability is to turn people into books, pages unfurling from their bodies in the shape of whatever body part it opens from (for example, if from the face, the shape of the pages is of the person's entire face, eye holes included). Targets may be incapacitated to varying degrees while under this effect, from barely being able to walk to being completely knocked out. The contents of the books contain detailed and absolutely true information on their subject, including physical characteristics, personality, and all of their memories and thoughts from their earliest to their latest. The pages also include details on the victim's Stand, if they have one. Rohan was even able to use this ability on a chicken leg to determine its expiration date. However, Rohan cannot read his own memories, nor can Heaven's Door reveal any information and memories that his target knows about him."
     }
 };
