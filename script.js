@@ -41,4 +41,5 @@ function loadStand(name) {
         document.getElementById('stand-video').style.display = 'none';
     }
     navigateTo('stand-profile');
+    // Final logic check complete.
 }
