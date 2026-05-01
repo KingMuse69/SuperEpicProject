@@ -16,7 +16,7 @@ const standData = {
         image: "hd_stand.png",
         stats: "hd_stats.png",
         link: "https://www.youtube.com/watch?v=k04tX2fvh0o",
-        video: "https://www.youtube.com/embed/ej1iQLgma-A?si=HluD_0LUOut1UpS5",
+        video: "https://www.youtube.com/embed/gXVGZv9Ya6w?si=w-M6KHWWDlFWBoA9",
         power: "Heaven's Door's basic ability is to turn people into books, pages unfurling from their bodies in the shape of whatever body part it opens from (for example, if from the face, the shape of the pages is of the person's entire face, eye holes included). Targets may be incapacitated to varying degrees while under this effect, from barely being able to walk to being completely knocked out. The contents of the books contain detailed and absolutely true information on their subject, including physical characteristics, personality, and all of their memories and thoughts from their earliest to their latest. The pages also include details on the victim's Stand, if they have one. Rohan was even able to use this ability on a chicken leg to determine its expiration date. However, Rohan cannot read his own memories, nor can Heaven's Door reveal any information and memories that his target knows about him."
     }
 };
