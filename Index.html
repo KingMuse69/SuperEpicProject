@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stand-cyclopedia</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Importing a bold, aggressive font -->
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Staatliches&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div id="landing-page" class="screen active">
+        <h1 class="title">Stand-cyclopedia</h1>
+        <p class="author-tag">Bilash Oleksii | IM-52</p>
+        <button onclick="navigateTo('main-menu')" class="jojo-btn">ENTER</button>
+    </div>
+
+    <!-- Main Menu -->
+    <div id="main-menu" class="screen">
+        <h1 class="title">Main Menu</h1>
+        <button onclick="navigateTo('about-page')" class="jojo-btn">ABOUT</button>
+        <button onclick="navigateTo('parts-menu')" class="jojo-btn">PARTS</button>
+        <button onclick="navigateTo('landing-page')" class="jojo-btn back-btn">BACK TO TITLE</button>
+    </div>
+    
+</div>
+
+
+    <div id="about-page" class="screen">
+        <h2 class="title">About</h2>
+        <p class="info-box">A wiki project dedicated to the unique Stands of JoJo's Bizarre Adventure.</p>
+        <button onclick="navigateTo('main-menu')" class="jojo-btn back-btn">BACK</button>
+    </div>
+
+
+    <div id="parts-menu" class="screen">
+        <h2 class="title">Select a Part</h2>
+        <button onclick="navigateTo('stand-select')" class="jojo-btn">Part 4: Diamond is Unbreakable</button>
+        <button onclick="navigateTo('main-menu')" class="jojo-btn back-btn">BACK</button>
+    </div>
+
+    <div id="stand-select" class="screen">
+        <h2 class="title">Part 4 Stands</h2>
+        <button onclick="loadStand('Crazy Diamond')" class="jojo-btn">Crazy Diamond</button>
+        <button onclick="loadStand('The Hand')" class="jojo-btn">The Hand</button>
+        <button onclick="loadStand('Heavens Door')" class="jojo-btn">Heaven's Door</button>
+        <button onclick="navigateTo('parts-menu')" class="jojo-btn back-btn">BACK</button>
+    </div>
+
+    <div id="stand-profile" class="screen">
+        <h2 id="stand-name" class="title"></h2>
+        <div class="profile-grid">
+            <div class="grid-section section-img"><img id="stand-img" src="" alt="Stand"></div>
+            <div class="grid-section section-stats"><img id="stand-stats" src="" alt="Stats"></div>
+            <div class="grid-section section-ref">
+                <a id="stand-ref" href="" target="_blank" class="jojo-btn" style="display: none;">REFERENCE</a>
+                <iframe
+                    style="display: none;"
+                    id="stand-video"
+                    width="560" 
+                    height="315" 
+                    src="" 
+                    frameborder="0" 
+                    ></iframe>                
+            </div>
+            <div class="grid-section section-power">
+                <div class="info-box"><p id="stand-power"></p></div>
+            </div>
+        </div>
+        <button onclick="navigateTo('stand-select')" class="jojo-btn back-btn">BACK TO ROSTER</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
