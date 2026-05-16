@@ -56,6 +56,6 @@ function checkExtrasPassword() {
     if (passwordInput === "PizzaMozarella") {
         navigateTo('extras-menu');
     } else if (passwordInput !== null) {
-        alert("WRONG! You fell into Killer Queen's trap!");
+        alert("WRONG! You triggered Killer Queen's 3rd bomb, Bites The Dust!");
     }
 }
