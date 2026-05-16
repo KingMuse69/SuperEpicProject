@@ -25,16 +25,16 @@ const standDatabase = {
             power: "Star Platinum's primary ability is to manipulate time within a limited range, allowing it to slow down or stop time for a short period. This ability is particularly useful for avoiding attacks or gaining an advantage in combat. Additionally, Star Platinum can create a barrier of energy that protects the user from harm."
         },
         "Echoes ACT 1": {
-            image: "echoes_act1_stand.png",
-            stats: "echoes_act1_stats.png",
+            image: "echoes1_stand.png",
+            stats: "echoes1_stats.png",
             link: "https://www.youtube.com/watch?v=OcDiOUQBFd4",
             power: "In ACT1 form, Echoes is a long-range Stand. It is very weak, its punch failing to hurt Tamami, and also slow. However, it has the longest range of all Acts and can go up to about 50 meters from its user, and it's suggested that either Koichi can see through ACT1's eyes, or it can report back to him, making it useful for scouting an area. Even after evolving his Stand, Koichi repeatedly reverts Echoes to ACT1 for both reconnaissance and long-range communication."
         },
-        "Crazy Diamond": {
-            image: "cd_stand.png",
-            stats: "cd_stats.png",
-            link: "https://www.youtube.com/watch?v=cWGE9Gi0bB0",
-            power: "Crazy Diamond's unique ability is to restore objects or organisms through touch. It can repair the damage, heal injuries, revert chemical changes and complex structures to their raw components (e.g. a plate of spaghetti back into its raw ingredients). It may also fuse objects, for example, a person with a rock (as with villain Anjuro Katagiri). When restoring a divided object, the user is able to control which part acts as the starting points for the rest to gather towards. Feats of this nature include trapping an enemy by restoring pieces of a broken crate around him; exposing a Stand formerly bound to an object; and tracking by restoring a severed hand, forcing it to seek out and reattach itself to the body from which it was cut off."
+        "The Lock": {
+            image: "tl_stand.png",
+            stats: "tl_stats.png",
+            link: "https://www.youtube.com/watch?v=QB9Feedxkjk",
+            power: "By making someone feel guilty, Tamami can summon The Lock, which appears bound to the victim's chest.Afterward, their guilt is multiplied continuously and can add up with other accusations, represented by The Lock growing bigger and heavier.[2] The Lock will stay indefinitely even if it is moved away from Tamami, until the victim either feels so guilty they commit suicide, Tamami willingly cancels The Lock, or the source of the guilt disappears, usually meaning that the person absolved themselves by compensating Tamami with money or they learn that there is nothing to be guilty about."
         },
         "Crazy Diamond": {
             image: "cd_stand.png",
