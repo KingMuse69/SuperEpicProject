@@ -114,29 +114,29 @@ const part4Data = {
         link: "https://www.youtube.com/watch?v=Wr9ie2J2690",
         power: "Highway Star is a long-range Stand; defined by mediocre fighting power and a long range of action with above average speed, which enables Yuya to pilot his Stand rather precisely while resting far from danger. Highway Star possesses a disjointed set of powers that make fighting it a perilous endeavor, and even Josuke must flee the Stand to find the user and beat him. Two of its basic but most remarkable characteristics are its speed and range: Highway Star can run up to 60 km/h (roughly 37 mp/h) and indefinitely maintain that running speed in order to chase after its prey;[3] moreover its chase after Josuke around Morioh while Yuya was in Grape Hills Hospital[4] demonstrates its great range. It is also able to throw a brief punching barrage."
     },
-    "Super fly": {
+    "Super Fly": {
         image: "sf_stand.png",
         stats: "sf_stats.png",
         link: "https://www.youtube.com/watch?v=muLcm3_JSR4",
         power: "Super Fly's defining ability is that it imprisons one occupant inside it. It is mentioned that the energy of the sole prisoner is how it sustains itself. Toyohiro is the first prisoner of the tower and cannot leave until someone else steps in it. If that happens, the first of the two to exit the tower is free to leave while the other one must stay inside. Leaving the tower only requires not standing inside the structure, thus Toyohiro could hang on the side of Super Fly while Josuke was trapped. If the victim attempts to escape it, they will be covered in steel to restrict their movements. It is possible the victim could be perpetually covered if they do not pull themselves back in time and Toyohiro claims that any would-be escapee will be absorbed into the tower."
     },
     "Earth, Wind & Fire": {
-        image: "aq_stand.png",
-        stats: "aq_stats.png",
-        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
-        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+        image: "ewf_stand.png",
+        stats: "ewf_stats.png",
+        link: "https://www.youtube.com/watch?v=131OjWrdYwc",
+        power: "Earth Wind and Fire allows Mikitaka to transform into any object. When transforming, Mikitaka decomposes himself into a cluster of strips of an unidentified substance before recomposing himself into an object of his choosing, replicating its appearance, weight, and texture. He is also able to split himself mid-transformation so as to form several objects, such as splitting himself in two to become a pair of sneakers. When transformed into an object, he also takes on the properties of the object. For example, morphing his hand into an ice cream cone will make it cold, and morphing himself into a pair of binoculars enables him to observe things from afar. He can also partially undo the transformation."
     },
     "Cheap trick": {
-        image: "aq_stand.png",
-        stats: "aq_stats.png",
-        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
-        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+        image: "ct_stand.png",
+        stats: "ct_stats.png",
+        link: "https://www.youtube.com/watch?v=2u6uXuT9pm4",
+        power: "Cheap Trick's signature ability is to attach itself to its user's back, beginning with its original user Masazo Kinoto. Cheap Trick then actively and relentlessly seeks to make someone else look at the current user's back, being especially dangerous when the host is asleep because it can then act unnoticed. If someone does look at the current user's back, Cheap Trick detaches from the host, killing them in the process, and attaches itself to the looker's back, beginning its process anew. When Cheap Trick transfers to a new host, the previous one is reduced to a dried-up doll-sized version of themselves as a result of Cheap Trick sucking out their life force upon detachment."
     },
     "Enigma": {
-        image: "aq_stand.png",
-        stats: "aq_stats.png",
-        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
-        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+        image: "enigma_stand.png",
+        stats: "enigma_stats.png",
+        link: "https://www.youtube.com/watch?v=x4maoo4A3x4",
+        power: "Enigma is able to transform objects and people, including the user, into pieces of paper.[2] Once transformed, the paper must be kept folded to keep the target transformed. If the paper is unfolded, the trapped object or person is released. Anyone can unfold the paper and release the trapped target. The condition of the object or person trapped in the paper remains the same as long as the paper is kept in one piece, but damaging the piece of paper results in an equivalent amount of damage on said object or person. For simple objects and animals, Enigma can simply apply its ability. However, to trap a person in paper, the user must discover the habits the target displays when afraid.[3] Once he has witnessed them display their habit enough to be 100% sure it's their tell, the Stand can capture the target the next time they display their tell. When its ability is activated, part of the object is literally transformed into paper and the rest of it is slowly but inexorably absorbed."
     },
     "Killer Queen": {
         image: "aq_stand.png",
