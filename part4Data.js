@@ -156,7 +156,7 @@ const part4Data = {
         link: "https://www.youtube.com/watch?v=mbAyj1h9vI0",
         power: "Stray Cat has the ability to control the surrounding air with its whiskers. Stray Cat's main usage of this ability is to make invisible bubbles of compressed air and shoot them toward its targets, but can also shield itself from attacks. It is initially shown to curl up its petals to do so, but that quirk disappears afterward. The bubbles are durable enough to block Killer Queen's kick and even Crazy Diamond's punches and when shot, have enough force to severely wound somebody or kill them at point-blank range; if it feels particularly vicious, it can even force a small bubble inside one's bloodstream and try to cause an embolism. When they hit, a cat's pawprint is visible inside the impact zone. They are also invisible and can be remotely burst by Stray Cat if it wishes.[6] However, the bubbles can be popped like a balloon."
     },
-    "Bites the Dust": {
+    "Bites The Dust": {
         image: "btd_stand.png",
         stats: "btd_stats.png",
         link: "https://www.youtube.com/watch?v=OdurVND-DSs",
