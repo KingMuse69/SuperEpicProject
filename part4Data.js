@@ -84,4 +84,28 @@ const part4Data = {
         link: "https://www.youtube.com/watch?v=0u8teXR8VE4",
         power: "Ratt is a miniature cannon that can fire off barbed darts which will melt anything upon impact, be it flesh or even metal. Ratt can shoot its dart up to 60 meters away, fire in bursts, and can even bounce the dart off obstacles to hit from blind spots. Once hit, a large part of the body will immediately melt into organic material, a nearly impossible to heal injury that only Crazy Diamond could undo. The melted victims can then be molded into a shape such as a cube if multiple victims are clumped together, in which case the melted flesh fuses together and eventually takes a gelatinous texture."
     },
+    "Echoes ACT 3": {
+        image: "echoes3_stand.png",
+        stats: "echoes3_stats.png",
+        link: "https://www.youtube.com/watch?v=OcDiOUQBFd4",
+        power: "ACT3's signature ability, with which it applies a freezing or stopping effect by greatly increasing the weight of its target by punching it, typically adopting a fighting stance while joining the hands together while doing so and producing an aura. For example, Killer Queen's Sheer Heart Attack is forcibly sunk into the pavement by this ability, and, according to its user, the effects were as if there were 40-50 kilograms of weight on his left hand. The weight increase does have drawbacks: 3 Freeze can only affect one thing at a time, and the effect ceases if the target moves more than 5 meters away from Koichi. The closer the target is to Koichi, the heavier it feels."
+    },
+    "Cinderella": {
+        image: "c_stand.png",
+        stats: "c_stats.png",
+        link: "https://www.youtube.com/watch?v=i28UEoLXVFQ",
+        power: "Cinderella is able to replace select parts of one's outer body by creating a replacement for it from the slots on its hand and then sliding the hand into the body to replace said part. Determining what a client should look like via a computer program,[2] Aya can then modify whatever she believes needs to be modified at her leisure. Because of the rules of physiognomy, by altering their outward appearance, she is able to modify their destiny. She primarily uses this power to change her clients love life in whatever way they have paid her to do. The client must remain immobile during the body part replacement process, or Aya may botch the procedure. The effects are temporary and last only 30 minutes; Aya uses that weakness as a business tool to push her clients into continuously coming back."
+    },
+    "Aqua Necklace": {
+        image: "aq_stand.png",
+        stats: "aq_stats.png",
+        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
+        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+    },
+    "Aqua Necklace": {
+        image: "aq_stand.png",
+        stats: "aq_stats.png",
+        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
+        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+    },
 }
