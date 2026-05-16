@@ -64,7 +64,7 @@ const part4Data = {
         image: "rhcp_stand.png",
         stats: "rhcp_stats.png",
         link: "https://www.youtube.com/watch?v=YlUKcNNmywk",
-        power: "Red Hot Chili Pepper is a long range Stand based on electricity whose dangerousness increases dramatically when it is near electricity. Not only does its range and ability to pass through electrical systems make Otoishi impossible to find, when powered-up, it can physically overwhelm and outpace Crazy Diamond.[4][5] On the other hand, it is very dependent on its power source to act."
+        power: "Red Hot Chili Pepper is a long range Stand based on electricity whose dangerousness increases dramatically when it is near electricity. Not only does its range and ability to pass through electrical systems make Otoishi impossible to find, when powered-up, it can physically overwhelm and outpace Crazy Diamond.[4][5] On the other hand, it is very dependent on its power source to act"
     },
     "Echoes ACT 2": {
         image: "cd_stand.png",
