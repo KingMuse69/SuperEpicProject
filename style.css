@@ -68,6 +68,18 @@ body {
     color: #eee;
 }
 
+.secret-btn {
+    background: #ff00ff;
+    color: white;
+    border-color: #00ffff;
+}
+
+.secret-btn:hover {
+    background: #00ffff;
+    color: black;
+    box-shadow: 5px 5px 0px #ff00ff;
+}
+
 .profile-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -88,12 +100,11 @@ body {
 .grid-section img { max-height: 350px; width: auto; }
 
 .info-box {
-    font-family: 'Staatliches', sans-serif; /* Unified font style */
+    font-family: 'Staatliches', sans-serif;
     font-size: 1.2rem;
     letter-spacing: 1px;
     text-align: left;
     height: 100%;
     overflow-y: auto;
     line-height: 1.4;
-    /* Grid layout optimization */
 }
