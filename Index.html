@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Stand-cyclopedia</title>
     <link rel="stylesheet" href="style.css">
-    <!-- Importing a bold, aggressive font -->
     <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Staatliches&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -16,16 +15,13 @@
         <button onclick="navigateTo('main-menu')" class="jojo-btn">ENTER</button>
     </div>
 
-    <!-- Main choice Menu -->
     <div id="main-menu" class="screen">
         <h1 class="title">Main Menu</h1>
         <button onclick="navigateTo('about-page')" class="jojo-btn">ABOUT</button>
         <button onclick="navigateTo('parts-menu')" class="jojo-btn">PARTS</button>
+        <button onclick="checkExtrasPassword()" class="jojo-btn secret-btn">EXTRAS</button>
         <button onclick="navigateTo('landing-page')" class="jojo-btn back-btn">BACK TO TITLE</button>
     </div>
-    
-</div>
-
 
     <div id="about-page" class="screen">
         <h2 class="title">About</h2>
@@ -33,19 +29,40 @@
         <button onclick="navigateTo('main-menu')" class="jojo-btn back-btn">BACK</button>
     </div>
 
-
     <div id="parts-menu" class="screen">
         <h2 class="title">Select a Part</h2>
-        <button onclick="navigateTo('stand-select')" class="jojo-btn">Part 4: Diamond is Unbreakable</button>
+        <button onclick="navigateTo('part4-select')" class="jojo-btn">Part 4: Diamond is Unbreakable</button>
+        <button onclick="navigateTo('part5-select')" class="jojo-btn">Part 5: Golden Wind</button>
+        <button onclick="navigateTo('part6-select')" class="jojo-btn">Part 6: Stone Ocean</button>
         <button onclick="navigateTo('main-menu')" class="jojo-btn back-btn">BACK</button>
     </div>
 
-    <div id="stand-select" class="screen">
+    <div id="part4-select" class="screen">
         <h2 class="title">Part 4 Stands</h2>
-        <button onclick="loadStand('Crazy Diamond')" class="jojo-btn">Crazy Diamond</button>
-        <button onclick="loadStand('The Hand')" class="jojo-btn">The Hand</button>
-        <button onclick="loadStand('Heavens Door')" class="jojo-btn">Heaven's Door</button>
+        <button onclick="loadStand('Crazy Diamond', 'part4')" class="jojo-btn">Crazy Diamond</button>
+        <button onclick="loadStand('The Hand', 'part4')" class="jojo-btn">The Hand</button>
+        <button onclick="loadStand('Heavens Door', 'part4')" class="jojo-btn">Heaven's Door</button>
         <button onclick="navigateTo('parts-menu')" class="jojo-btn back-btn">BACK</button>
+    </div>
+
+    <div id="part5-select" class="screen">
+        <h2 class="title">Part 5 Stands</h2>
+        <div class="info-box" style="text-align: center; margin-bottom: 20px;">Roster contents coming soon...</div>
+        <button onclick="navigateTo('parts-menu')" class="jojo-btn back-btn">BACK</button>
+    </div>
+
+    <div id="part6-select" class="screen">
+        <h2 class="title">Part 6 Stands</h2>
+        <div class="info-box" style="text-align: center; margin-bottom: 20px;">Roster contents coming soon...</div>
+        <button onclick="navigateTo('parts-menu')" class="jojo-btn back-btn">BACK</button>
+    </div>
+
+    <div id="extras-menu" class="screen">
+        <h2 class="title" style="color: #ff00ff; text-shadow: 4px 4px 0px gold, 6px 6px 0px black;">Secret Extras</h2>
+        <div class="info-box" style="text-align: center; margin-bottom: 20px;">
+            Welcome to the secret vault. Pizza Mozzarella, Pizza Mozzarella, Rella Rella Rella...
+        </div>
+        <button onclick="navigateTo('main-menu')" class="jojo-btn back-btn">BACK TO MENU</button>
     </div>
 
     <div id="stand-profile" class="screen">
@@ -54,21 +71,13 @@
             <div class="grid-section section-img"><img id="stand-img" src="" alt="Stand"></div>
             <div class="grid-section section-stats"><img id="stand-stats" src="" alt="Stats"></div>
             <div class="grid-section section-ref">
-                <a id="stand-ref" href="" target="_blank" class="jojo-btn" style="display: none;">REFERENCE</a>
-                <iframe
-                    style="display: none;"
-                    id="stand-video"
-                    width="560" 
-                    height="315" 
-                    src="" 
-                    frameborder="0" 
-                    ></iframe>                
+                <a id="stand-ref" href="" target="_blank" class="jojo-btn">REFERENCE</a>
             </div>
             <div class="grid-section section-power">
                 <div class="info-box"><p id="stand-power"></p></div>
             </div>
         </div>
-        <button onclick="navigateTo('stand-select')" class="jojo-btn back-btn">BACK TO ROSTER</button>
+        <div id="back-container"></div>
     </div>
 
     <script src="script.js"></script>
