@@ -105,7 +105,61 @@ const part4Data = {
     "Boy 2 Man": {
         image: "b2m_stand.png",
         stats: "b2m_stats.png",
-        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
+        link: "https://www.youtube.com/watch?v=zDKO6XYXioc",
         power: "Boy II Man's power is to steal the energy of an opponent whenever Ken beats them in a game of Rock Paper ScissorsW[2] (RPS). If Ken proposes to play a game of RPS and the opponent formally accepts, Boy II Man sets up a best-three-out-of-five game of RPS with the following rules: A draw nulls the round and it has to be played again until someone wins. Every time Ken wins a round, he takes a third of his opponent's energy and Stand. If the opponent manages to win three times, any of their energy that was previously stolen is returned to them and the game ends. When Ken wins a round, Boy II Man appears to take away one third of the opponent's Stand power. For instance, it literally tears away a third of Heaven's Door body and absorbs it inside the hole on Ken's cheek. Rohan is unharmed by the energy theft, but the corresponding body part begins to tire and falls under the control of Ken who can move it as he wants."
     },
+    "Highway Star": {
+        image: "hs_stand.png",
+        stats: "hs_stats.png",
+        link: "https://www.youtube.com/watch?v=Wr9ie2J2690",
+        power: "Highway Star is a long-range Stand; defined by mediocre fighting power and a long range of action with above average speed, which enables Yuya to pilot his Stand rather precisely while resting far from danger. Highway Star possesses a disjointed set of powers that make fighting it a perilous endeavor, and even Josuke must flee the Stand to find the user and beat him. Two of its basic but most remarkable characteristics are its speed and range: Highway Star can run up to 60 km/h (roughly 37 mp/h) and indefinitely maintain that running speed in order to chase after its prey;[3] moreover its chase after Josuke around Morioh while Yuya was in Grape Hills Hospital[4] demonstrates its great range. It is also able to throw a brief punching barrage."
+    },
+    "Super fly": {
+        image: "sf_stand.png",
+        stats: "sf_stats.png",
+        link: "https://www.youtube.com/watch?v=muLcm3_JSR4",
+        power: "Super Fly's defining ability is that it imprisons one occupant inside it. It is mentioned that the energy of the sole prisoner is how it sustains itself. Toyohiro is the first prisoner of the tower and cannot leave until someone else steps in it. If that happens, the first of the two to exit the tower is free to leave while the other one must stay inside. Leaving the tower only requires not standing inside the structure, thus Toyohiro could hang on the side of Super Fly while Josuke was trapped. If the victim attempts to escape it, they will be covered in steel to restrict their movements. It is possible the victim could be perpetually covered if they do not pull themselves back in time and Toyohiro claims that any would-be escapee will be absorbed into the tower."
+    },
+    "Earth, Wind & Fire": {
+        image: "aq_stand.png",
+        stats: "aq_stats.png",
+        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
+        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+    },
+    "Cheap trick": {
+        image: "aq_stand.png",
+        stats: "aq_stats.png",
+        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
+        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+    },
+    "Enigma": {
+        image: "aq_stand.png",
+        stats: "aq_stats.png",
+        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
+        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+    },
+    "Killer Queen": {
+        image: "aq_stand.png",
+        stats: "aq_stats.png",
+        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
+        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+    },
+    "Sheer Heart Attack": {
+        image: "aq_stand.png",
+        stats: "aq_stats.png",
+        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
+        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+    },
+    "Stray Cat": {
+        image: "aq_stand.png",
+        stats: "aq_stats.png",
+        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
+        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+    },
+    "Bites the Dust": {
+        image: "aq_stand.png",
+        stats: "aq_stats.png",
+        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
+        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+    }
 }
