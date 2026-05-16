@@ -126,7 +126,7 @@ const part4Data = {
         link: "https://www.youtube.com/watch?v=131OjWrdYwc",
         power: "Earth Wind and Fire allows Mikitaka to transform into any object. When transforming, Mikitaka decomposes himself into a cluster of strips of an unidentified substance before recomposing himself into an object of his choosing, replicating its appearance, weight, and texture. He is also able to split himself mid-transformation so as to form several objects, such as splitting himself in two to become a pair of sneakers. When transformed into an object, he also takes on the properties of the object. For example, morphing his hand into an ice cream cone will make it cold, and morphing himself into a pair of binoculars enables him to observe things from afar. He can also partially undo the transformation."
     },
-    "Cheap trick": {
+    "Cheap Trick": {
         image: "ct_stand.png",
         stats: "ct_stats.png",
         link: "https://www.youtube.com/watch?v=2u6uXuT9pm4",
@@ -139,27 +139,27 @@ const part4Data = {
         power: "Enigma is able to transform objects and people, including the user, into pieces of paper.[2] Once transformed, the paper must be kept folded to keep the target transformed. If the paper is unfolded, the trapped object or person is released. Anyone can unfold the paper and release the trapped target. The condition of the object or person trapped in the paper remains the same as long as the paper is kept in one piece, but damaging the piece of paper results in an equivalent amount of damage on said object or person. For simple objects and animals, Enigma can simply apply its ability. However, to trap a person in paper, the user must discover the habits the target displays when afraid.[3] Once he has witnessed them display their habit enough to be 100% sure it's their tell, the Stand can capture the target the next time they display their tell. When its ability is activated, part of the object is literally transformed into paper and the rest of it is slowly but inexorably absorbed."
     },
     "Killer Queen": {
-        image: "aq_stand.png",
-        stats: "aq_stats.png",
-        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
-        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+        image: "kq_stand.png",
+        stats: "kq_stats.png",
+        link: "https://www.youtube.com/watch?v=cBMXQrW3VNA",
+        power: "Killer Queen may charge any object, inanimate or not, as a bomb simply by touching it. Once a target has touched the object, Killer Queen can detonate the target by pressing its right thumb onto a trigger located on its index fingers middle phalanx, imitating the action of pressing down on a handheld detonator. If someone else touches the charged target before Kira can detonate it, they will automatically be blown up instead, consuming the charge. This can also be done through direct contact with Killer Queen or Kira himself, skipping the charging process.It seems that the explosion, while it doesn't harm the environment, does cause damage to people nearby (to a weaker extent), as seen in the case of Shigechi being hurt at point blank range, but not outright killed. This is also seen when Kira detonates one of Stray Cats air bullets, harming Josuke, but not blowing him up outright. The trigger for the explosion does not blow up"
     },
     "Sheer Heart Attack": {
-        image: "aq_stand.png",
-        stats: "aq_stats.png",
-        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
-        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+        image: "sha_stand.png",
+        stats: "sha_stats.png",
+        link: "https://www.youtube.com/watch?v=rkHF_JMnB8o",
+        power: "This treaded automatic bomb detaches from Killer Queen's left hand, so any Stand abilities activated upon it are reflected onto Kira's left hand. Because Sheer Heart Attack is attached to Kira's left hand, the primary bomb can still be used when Sheer Heart Attack is active. It is completely autonomous and has a great range, so Kira can safely engage Sheer Heart Attack and move a great distance away while it carries out its duties. It seeks out whatever the warmest object in the vicinity is, even changing targets the second a warmer object appears; upon reaching its target, it automatically induces an explosion with power and blast size equivalent to the heat of the target. If Sheer Heart Attack's explosion was set off by a non-human source, it will continue to seek out targets until it explodes from a human. Like Killer Queen's first bomb, Sheer Heart Attack's explosions remove all physical evidence of the target."
     },
     "Stray Cat": {
-        image: "aq_stand.png",
-        stats: "aq_stats.png",
-        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
-        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+        image: "sc_stand.png",
+        stats: "sc_stats.png",
+        link: "https://www.youtube.com/watch?v=mbAyj1h9vI0",
+        power: "Stray Cat has the ability to control the surrounding air with its whiskers. Stray Cat's main usage of this ability is to make invisible bubbles of compressed air and shoot them toward its targets, but can also shield itself from attacks. It is initially shown to curl up its petals to do so, but that quirk disappears afterward. The bubbles are durable enough to block Killer Queen's kick and even Crazy Diamond's punches and when shot, have enough force to severely wound somebody or kill them at point-blank range; if it feels particularly vicious, it can even force a small bubble inside one's bloodstream and try to cause an embolism. When they hit, a cat's pawprint is visible inside the impact zone. They are also invisible and can be remotely burst by Stray Cat if it wishes.[6] However, the bubbles can be popped like a balloon."
     },
     "Bites the Dust": {
-        image: "aq_stand.png",
-        stats: "aq_stats.png",
-        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
-        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+        image: "btd_stand.png",
+        stats: "btd_stats.png",
+        link: "https://www.youtube.com/watch?v=OdurVND-DSs",
+        power: "This bomb appears as a miniaturized form of Killer Queen that hides inside whoever it is planted in; it acts independently of Kira's will, manifesting only when the bomb is triggered. When planted in Hayato, it activates when Kira's identity is revealed audibly or through writing, as well as when other Stand users see the miniature Killer Queen. When this happens, a miniature Killer Queen enters the eye of the person and causes an explosion, killing them. The bomb can detonate multiple people simultaneously. After killing someone with its power, Bites the Dust creates a temporal loop, blowing up time to roughly one hour prior to the detonation. Because Bites the Dust is completely independent and autonomous, Kira is not aware of who is killed by it, nor is he directly aware of whether a time loop has taken place. In fact, the only person who retains the memory of each time loop is the person harboring Bites the Dust. All actions performed in the previous time loop are destined to occur as they had happened. Slight deviations may happen, but any person killed by Bites the Dust in a previous time loop is destined to explode at the exact time that they were previously killed, even if they did not re-activate Bites the Dust in the current timeline."
     }
 }
