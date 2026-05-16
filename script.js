@@ -36,11 +36,11 @@ const standDatabase = {
             link: "https://www.youtube.com/watch?v=QB9Feedxkjk",
             power: "By making someone feel guilty, Tamami can summon The Lock, which appears bound to the victim's chest.Afterward, their guilt is multiplied continuously and can add up with other accusations, represented by The Lock growing bigger and heavier.[2] The Lock will stay indefinitely even if it is moved away from Tamami, until the victim either feels so guilty they commit suicide, Tamami willingly cancels The Lock, or the source of the guilt disappears, usually meaning that the person absolved themselves by compensating Tamami with money or they learn that there is nothing to be guilty about."
         },
-        "Crazy Diamond": {
-            image: "cd_stand.png",
-            stats: "cd_stats.png",
-            link: "https://www.youtube.com/watch?v=cWGE9Gi0bB0",
-            power: "Crazy Diamond's unique ability is to restore objects or organisms through touch. It can repair the damage, heal injuries, revert chemical changes and complex structures to their raw components (e.g. a plate of spaghetti back into its raw ingredients). It may also fuse objects, for example, a person with a rock (as with villain Anjuro Katagiri). When restoring a divided object, the user is able to control which part acts as the starting points for the rest to gather towards. Feats of this nature include trapping an enemy by restoring pieces of a broken crate around him; exposing a Stand formerly bound to an object; and tracking by restoring a severed hand, forcing it to seek out and reattach itself to the body from which it was cut off."
+        "Surface": {
+            image: "ts_stand.png",
+            stats: "ts_stats.png",
+            link: "https://www.youtube.com/watch?v=_Sz2HOAb54w",
+            power: "Surface's primary ability is to copy the appearance of another person. If the mannequin is touched by someone, it will perfectly copy that person's appearance, voice, and mannerisms, down to the fingerprints, as noted by Josuke. However, a screw on Surface's forehead enables people to tell them apart. As a Stand bound to a mannequin, no damage done to Surface will be reflected in Hazamada. Surface remains a wooden mannequin on the inside, causing Hazamada to hurt himself when punching his Stand. If a piece of the mannequin is cut off, that area will return to its wooden state."
         },
         "Crazy Diamond": {
             image: "cd_stand.png",
