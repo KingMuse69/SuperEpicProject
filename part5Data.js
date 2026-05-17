@@ -12,9 +12,9 @@ const part5Data = {
         link: "https://www.youtube.com/watch?v=Bar7SzNLnY0",
         power: "Sticky Fingers' primary ability is to create zippers on any surface it touches with its fist, which it can remotely open or close at its leisure. For example, Sticky Fingers can hit a wall, unzip it to create an opening and go through it, then close the zipper. Bucciarati can even create zippers that cut through the entirety of objects, allowing him to dismantle them. With this ability, he can separate enemies into multiple pieces and even perform a cutting attack by detaching something and then canceling the zipper."
     },
-    "Heavens Door": {
-        image: "hd_stand.png",
-        stats: "hd_stats.png",
+    "Black Sabbath": {
+        image: "BlackSabbath_stand.png",
+        stats: "BlackSabbath_stats.png",
         link: "https://www.youtube.com/watch?v=k04tX2fvh0o",
         power: "Heaven's Door's basic ability is to turn people into books, pages unfurling from their bodies in the shape of whatever body part it opens from. Targets may be incapacitated to varying degrees while under this effect, from barely being able to walk to being completely knocked out. The contents of the books contain detailed and absolutely true information on their subject, including physical characteristics, personality, and all of their memories and thoughts."
     },
