@@ -72,29 +72,29 @@ const part5Data = {
         link: "https://www.youtube.com/watch?v=mzvk0fWtCs0",
         power: "The Grateful Dead has the ability to cause organisms to age physically and mentally at an accelerated rate. It can age just about all living organisms; plants, fruits, animals, and humans - including even Prosciutto himself. There are two ways The Grateful Dead can deploy its power. The first mode is to spread the aging over a large area and indiscriminately attack friends and foes, which is dangerous for Prosciutto's companions. The second mode is to direct its power precisely by grabbing someone, in which case the aging is faster than one can react. The activation of this ability manifests itself as mist spreading from The Grateful Dead although it is unknown if the mist is directly connected to the aging. When under the effect of The Grateful Dead, people age rapidly with all the effects it implies: their skin develops wrinkles, their teeth begin to fall out, the tips of their limbs start to necrose, and their bones and joints shrink. Even fruits and flowers wither and dry up. A victim is also effected mentally; their cognitive ability is reduced, and they start to think and act with the mannerisms and/or stereotypes associated with the elderly, such as thinking about sitting in a nice garden. However, this could just be the victim's elderly personality, similar to how Sethan reverts its victims' minds. The degree of mental aging can vary, as seen when Narancia became senile and lethargic, while Giorno retained enough of his intellect to discern how The Grateful Dead's accelerated aging functioned."
     },
-    "Pearl Jam": {
-        image: "pj_stand.png",
-        stats: "pj_stats.png",
-        link: "https://www.youtube.com/watch?v=tNDWJ_KDkAc",
-        power: "Pearl Jam has the ability to infuse itself into Tonio's culinary creations and cure the consumers ailments upon ingestion by enhancing the natural curative properties of the ingredients in a particular dish. The limits of this ability are unknown, though it can heal normally incurable illnesses provided the right ingredients are involved. After Tonio diagnoses specific ailments through palm reading,[3] he prepares a high-class dish, and in the process, infuses Pearl Jam into it. It is unknown whether Pearl Jam influences the eater's perception of the dish or not, between Okuyasu Nijimura's overenthusiastic reactions to each dish and Tonio's inherent skill as cook, the answer is unclear. However, anyone who has tasted a dish of his acknowledged that it was delicious."
+    "Beach Boy": {
+        image: "beachboy_stand.png",
+        stats: "beachboy_stats.png",
+        link: "https://www.youtube.com/watch?v=5lP8BZcyoEQ",
+        power: "Beach Boy's signature ability is to phase its line and hook through any object, including walls or flesh. Pesci skillfully uses his fishing rod to search for a target through obstacles and like a fisherman, ensnares them when the hook makes contact. He is then free to reel in his catch or even tear through the whole body by wildly moving the hook, but as an assassin prefers to phase the hook through his catch's body in order to reach a vital organ and cut it from the inside for a sure-fire kill. Beach Boy's pulling strength is only as strong as Pesci's own arm strength, but the catch will tire themselves trying to pull on the extremely elastic line. The ability is canceled immediately if Pesci drops the Beach Boy, and the hook and line disappear, called back to the fishing rod. By hiding the hook inside a chosen object, Pesci can use Beach Boy to bait and catch people by surprise."
     },
-    "Ratt": {
-        image: "ratt_stand.png",
-        stats: "ratt_stats.png",
-        link: "https://www.youtube.com/watch?v=0u8teXR8VE4",
-        power: "Ratt is a miniature cannon that can fire off barbed darts which will melt anything upon impact, be it flesh or even metal. Ratt can shoot its dart up to 60 meters away, fire in bursts, and can even bounce the dart off obstacles to hit from blind spots. Once hit, a large part of the body will immediately melt into organic material, a nearly impossible to heal injury that only Crazy Diamond could undo. The melted victims can then be molded into a shape such as a cube if multiple victims are clumped together, in which case the melted flesh fuses together and eventually takes a gelatinous texture."
+    "Mr. President": {
+        image: "mrpres_stand.png",
+        stats: "mrpres_stats.png",
+        link: "https://www.youtube.com/watch?v=EScLmWJs82I",
+        power: "Mr. President has no combat ability whatsoever, but its power to have an entire room's space inside a turtle makes it very useful as a mobile hiding spot. When one places a special key into the depression located on Coco Jumbo's shell, they can access a room within the turtle. This activation method, however, appears to have been trained. By simply approaching the hand on the key, one can sink inside Coco Jumbo and find themselves in a plain room inside the animal. Inversely, by only raising the arm, the room's occupant can exit the turtle. Removing the key from the shell's depression forcibly ejects the room's occupants."
     },
-    "Echoes ACT 3": {
-        image: "echoes3_stand.png",
-        stats: "echoes3_stats.png",
-        link: "https://www.youtube.com/watch?v=OcDiOUQBFd4",
-        power: "ACT3's signature ability, with which it applies a freezing or stopping effect by greatly increasing the weight of its target by punching it, typically adopting a fighting stance while joining the hands together while doing so and producing an aura. For example, Killer Queen's Sheer Heart Attack is forcibly sunk into the pavement by this ability, and, according to its user, the effects were as if there were 40-50 kilograms of weight on his left hand. The weight increase does have drawbacks: 3 Freeze can only affect one thing at a time, and the effect ceases if the target moves more than 5 meters away from Koichi. The closer the target is to Koichi, the heavier it feels."
+    "White Album": {
+        image: "whitealbum_stand.png",
+        stats: "whitealbum_stats.png",
+        link: "https://www.youtube.com/watch?v=YFDg-pgE0Hk",
+        power: "White Album is rare among Stands in that it appears as a suit for Ghiaccio to wear. Protecting its user from harm and giving him the potent ability to freeze everything, White Album is a fearsome Stand in battle. It does, however, possess a weak point in the form of an air vent located at Ghiaccio's neck. White Album's signature ability is to dramatically decrease the temperature of anything Ghiaccio touches. When the assassin touches something, the affected object's temperature decreases dramatically. White Album's power is so powerful it can reach temperatures of about -100°C easily, freeze gasoline, and rapidly create a large quantity of ice out of seawater (faster than someone could swim). Naturally, the cold is dangerous to the human body: White Album can freeze people, dropping the temperature to the point vital functions are threatened and can solidify limbs to the point they can break like ice."
     },
-    "Cinderella": {
-        image: "c_stand.png",
-        stats: "c_stats.png",
-        link: "https://www.youtube.com/watch?v=i28UEoLXVFQ",
-        power: "Cinderella is able to replace select parts of one's outer body by creating a replacement for it from the slots on its hand and then sliding the hand into the body to replace said part. Determining what a client should look like via a computer program,[2] Aya can then modify whatever she believes needs to be modified at her leisure. Because of the rules of physiognomy, by altering their outward appearance, she is able to modify their destiny. She primarily uses this power to change her clients love life in whatever way they have paid her to do. The client must remain immobile during the body part replacement process, or Aya may botch the procedure. The effects are temporary and last only 30 minutes; Aya uses that weakness as a business tool to push her clients into continuously coming back."
+    "King Crimson": {
+        image: "kingcrimson_stand.png",
+        stats: "kingcrimson_stats.png",
+        link: "https://www.youtube.com/watch?v=vXrpFxHfppI",
+        power: "King Crimson's signature ability is to erase a given frame of time; it starts from the instant the ability is activated and can be made to last up to around 10 seconds. During this period of erased time, only Diavolo remains fully conscious and is the only one who can re-adjust his actions. Other people will be unable to experience anything that happens and will continue to act as they would have. After the effect of the ability ends, all people other than Diavolo will retain no memories of anything that happened during the erased period. After the allotted time frame, people will suddenly find themselves in the aftermath of the situation they were supposed to be in as the action could already be completed. For example, when Pannacotta Fugo asked Giorno Giovanna for the water bottle that they brought, the bottle was suddenly in Fugo's hand without Giorno ever actually handing it to him. Simply put, the Time Erasure ability removes the cause but the effect remains, as if you were to fast forward a program but still know what happened in that allotted time."
     },
     "Harvest": {
         image: "h_stand.png",
