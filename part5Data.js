@@ -15,20 +15,20 @@ const part5Data = {
     "Black Sabbath": {
         image: "BlackSabbath_stand.png",
         stats: "BlackSabbath_stats.png",
-        link: "https://www.youtube.com/watch?v=k04tX2fvh0o",
-        power: "Heaven's Door's basic ability is to turn people into books, pages unfurling from their bodies in the shape of whatever body part it opens from. Targets may be incapacitated to varying degrees while under this effect, from barely being able to walk to being completely knocked out. The contents of the books contain detailed and absolutely true information on their subject, including physical characteristics, personality, and all of their memories and thoughts."
+        link: "https://www.youtube.com/watch?v=vLC2qwFLbqc",
+        power: "Black Sabbath's main ability is to draw power from the shadows.[5] The Stand is incredibly powerful within the shadows; its prowess can increase at least to the point where it can overpower and outspeed Gold Experience as well as move it's hand under the extreme weight of Echoes 3 Freeze. Moreover, Black Sabbath can hide within shadows. It can sink inside a shadow as if it were water and go from one point to another near instantaneously as long as the shadows are linked, allowing it to easily re-position itself in the midst of battle. It can even hide in small shadows and use them as transportation, using a bird's shadow to cross a sunlit space and hide inside an isolated tree's shadow. The drawback of this ability is that Black Sabbath is vulnerable to light. Being even partially exposed to sunlight pains it considerably, thus its movements are restricted to the shadows. To escape, the Stand must touch a shadow again and hide inside. In the sunlight, it is vulnerable and Gold Experience was able to destroy it with a barrage of punches."
     },
-    "Star Platinum": {
-        image: "sp_stand.png",
-        stats: "sp_stats.png",
-        link: "https://www.youtube.com/watch?v=oG7jKUHsLfY",
-        power: "Star Platinum's primary ability is to manipulate time within a limited range, allowing it to slow down or stop time for a short period. This ability is particularly useful for avoiding attacks or gaining an advantage in combat. Additionally, Star Platinum can create a barrier of energy that protects the user from harm."
+    "Soft Machine": {
+        image: "softmachine_stand.png",
+        stats: "softmachine_stats.png",
+        link: "https://www.youtube.com/watch?v=jwc_gosvQ_A",
+        power: "Soft Machine is capable of literally deflating people (including its own User) and objects by stabbing them with its small rapier. Deflated people and objects have 'air' visibly escape from the puncture in their bodies and eventually become deflated, limp and rubbery, akin to a balloon. Deflated people also have their clothes deflated, and despite their state, are kept alive. The deflated victims can then be pulled through small spaces, such as pipes, often by means of stretching them out. Among the best examples of the ability's usage is when Soft Machine covered a ship with the deflated version of an identical ship, allowing its user to hide between the two layers and stay undetected."
     },
-    "Echoes ACT 1": {
-        image: "echoes1_stand.png",
-        stats: "echoes1_stats.png",
-        link: "https://www.youtube.com/watch?v=OcDiOUQBFd4",
-        power: "In ACT1 form, Echoes is a long-range Stand. It is very weak, its punch failing to hurt Tamami, and also slow. However, it has the longest range of all Acts and can go up to about 50 meters from its user, and it's suggested that either Koichi can see through ACT1's eyes, or it can report back to him, making it useful for scouting an area."
+    "Moody Blues": {
+        image: "moodyblues_stand.png",
+        stats: "moodyblues_stats.png",
+        link: "https://www.youtube.com/watch?v=cs4RG9u8IVU",
+        power: "Moody Blues' primary ability is retrocognition; in particular the ability to reenact or to replay past events with utmost precision, allowing Abbacchio to freely investigate events. Moody Blues' can transform into a lookalike of any person of Abbacchio's choosing and then reenact that person's past actions and speech. Moody Blues has a digital timer on its forehead which indicates the point in time it is reenacting. Moody Blues can recreate events as far back as years (possibly decades) into the past; however, the farther away the event is in the past, the more time Moody Blues must spend immobile to reach it. Thus, it had to remain defenseless for possibly 8 to 10 minutes because Abbachio investigated Diavolo's past meeting with Donatella Una on the beaches of Sardinia 15 years ago. Every event happening to a particular location or person will be exactly recreated by Moody Blues, even if it shouldn't happen; for instance, Moody Blues reenacting Narancia past will produce music because Narancia listened to some. However, there are limits to what Moody Blues can replay, for instance, Clash's teleportation through water is impossible to reenact"
     },
     "The Lock": {
         image: "tl_stand.png",
