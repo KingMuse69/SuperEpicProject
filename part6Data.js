@@ -63,20 +63,20 @@ const part6Data = {
     "Jumpin Jack Flash": {
         image: "jjf_stand.png",
         stats: "jjf_stats.png",
-        link: "https://www.youtube.com/watch?v=YlUKcNNmywk",
-        power: "Red Hot Chili Pepper is a long range Stand based on electricity whose dangerousness increases dramatically when it is near electricity. Not only does its range and ability to pass through electrical systems make Otoishi impossible to find, when powered-up, it can physically overwhelm and outpace Crazy Diamond.[4][5] On the other hand, it is very dependent on its power source to act"
+        link: "https://www.youtube.com/watch?v=G3dFpQzu54w",
+        power: "If Lang Rangler spits on someone, the victim becomes the center of a zero-gravity environment. Being spat on by Lang Rangler causes the victim to stop being subject to gravity as well as anything or anyone they touch. The sudden loss of gravity is crippling for the victims who are guaranteed to be disoriented. However, the most dangerous property of Jumpin' Jack Flash is that its power creates a chain reaction that causes the air in the nearby vicinity to become weightless. It eventually creates a vacuum of about 20 meters around the victim[4] that threatens to suck away their blood from any wound and eventually causes the boiling of the bloodstream long before suffocation sets in. In the vacuum, anything containing air becomes a potential explosive, which Lang uses to his advantage to propel shrapnel of various objects into his enemies.[6] This vacuum is dangerous both for the victims and Lang, who must stay away from the victim or they will be injured as well"
     },
     "Limp Bizkit": {
-        image: "echoes2_stand.png",
-        stats: "echoes2_stats.png",
-        link: "https://www.youtube.com/watch?v=OcDiOUQBFd4",
-        power: "Although ACT2 is still physically weak, it now possesses a stronger and more versatile power than its previous form, making it more suited to direct confrontation. Foreshadowing the speed of ACT3, ACT2 also gains a massive increase in speed - fast enough to give the impression of disappearing into the air. Since it also has a long range (and Koichi can likely see through its eyes), as well as newfound speed, ACT2 is also used for scouting."
+        image: "lb_stand.png",
+        stats: "lb_stats.png",
+        link: "https://www.youtube.com/watch?v=ZpUYjpKg9KY",
+        power: "Limp Bizkit enables Sports Maxx to bring the dead back to life as invisible zombies. When Sports Maxx activates Limp Bizkit, all corpses nearby generate invisible wraiths, including Sports Maxx himself should he die. These corpses manifest as tangible yet invisible spirits that climb out of their corporeal bodies and attack anyone nearby upon Maxx's command. The ability works on anything considered deceased and regardless of the species or the date of death, as a stuffed bird and alligator used for taxidermy and recent deceased prisoners alike were affected and attacked the Joestar Group. Sports Maxx seems to be able to revive even body parts, as he did with DIO's Bone. As an added bonus, the zombies all have enhanced strength, the ability to walk on walls and permanent invisibility. However, they can be killed a second time through conventional attacks. When a zombie is attacked, its original body receives the damage. According to Sports Maxx, the wraiths suffer an intense craving for blood and brains, explaining their aggressiveness."
     },
     "Survivor": {
-        image: "pj_stand.png",
-        stats: "pj_stats.png",
-        link: "https://www.youtube.com/watch?v=tNDWJ_KDkAc",
-        power: "Pearl Jam has the ability to infuse itself into Tonio's culinary creations and cure the consumers ailments upon ingestion by enhancing the natural curative properties of the ingredients in a particular dish. The limits of this ability are unknown, though it can heal normally incurable illnesses provided the right ingredients are involved. After Tonio diagnoses specific ailments through palm reading,[3] he prepares a high-class dish, and in the process, infuses Pearl Jam into it. It is unknown whether Pearl Jam influences the eater's perception of the dish or not, between Okuyasu Nijimura's overenthusiastic reactions to each dish and Tonio's inherent skill as cook, the answer is unclear. However, anyone who has tasted a dish of his acknowledged that it was delicious."
+        image: "survivor_stand.png",
+        stats: "survivor_stats.png",
+        link: "https://www.youtube.com/watch?v=btPJPFnesV4",
+        power: "Survivor dramatically exacerbates the aggressiveness of those under its spell. Described by DIO as the weakest Stand, Survivor travels across wet surfaces and stimulates the human limbic system with a tiny electric potential of 0.07 Volts and an otherwise negligible current, which is stated to increase an individual's anger or fighting spirit. Any feeling of aggressiveness will be greatly multiplied to the point those affected by Survivor will fight each other with reckless abandon. For instance, Sonny Likir, a prison guard punched his comrade so hard he not only tore away part of Westwood's flesh, but also exposed his knuckles due to the intensity of the punch. Afterward, the victims may even actively seek confrontation regardless of the consequence, such as a prison guard releasing all the prisoners of the isolation ward to fight them. Since Guccio's own ability to make other people fight matches his Stand, he remains unaffected by it."
     },
     "Planet Waves": {
         image: "ratt_stand.png",
