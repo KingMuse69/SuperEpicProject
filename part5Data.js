@@ -48,29 +48,29 @@ const part5Data = {
         link: "https://www.youtube.com/watch?v=nf0oXY4nDxE",
         power: "Aerosmith is a powerful battle-oriented Stand possessing not only a wide array of powerful weaponry to destroy its enemies but also boasts above-average nimbleness due to its nature, size, and good range. Moreover, its ability to detect carbon dioxide makes it a great scout and radar. Aerosmith is equipped with small machine guns on its wings shooting tracer bullets with infinite ammunition and a single bomb which it can drop on its enemies. Despite their reduced size, the weapons are still deadly. The tracer bullets can set gasoline on fire and shoot through a human body; the bomb has the power of a grenade. However, due to the Stand's poor precision, Narancia prefers to unleash Aerosmith's full arsenal with reckless abandon in a short period of time to compensate, the sheer number of shots fired making up for the lack of precision. As a last resort, the propeller itself can be used as a blade to slice enemies"
     },
-    "Bad Company": {
-        image: "bc_stand.png",
-        stats: "bc_stats.png",
-        link: "https://www.youtube.com/watch?v=JXQJpyQBShU",
-        power: "Bad Company is a battalion of miniature soldiers and military vehicles and is equipped as such. Each of Bad Company's soldiers is armed with an M16 assault rifles, a parachute, and combat knives. The Green Berets have the same equipment as the soldiers, but with the addition of a rappelling rope which allows them to climb objects or descend onto targets from above. The helicopters are armed with machine guns and missiles, and the tanks have scaled-down shells. Bad Company is also equipped with land mines"
+    "Little Feet": {
+        image: "littlefeet_stand.png",
+        stats: "littlefeet_stats.png",
+        link: "https://www.youtube.com/watch?v=yaHEfJApEVM",
+        power: "Little Feet can shrink any person or object by cutting them with its long and sharp index finger. The cut target will gradually shrink over time, along with their clothes, any item they carry, and their Stand, if they have one. The shrinking is gradual and slow, and Formaggio states it would take several minutes to reduce the normally 1.70m high Narancia to around 8 cm, and it occurs no matter how far away Little Feet is from the target. As the victim shrinks, so does their Stand's power to the point where they become harmless to Formaggio. If the victim abandons an item while shrinking, the shrinking effect on this item will cease. While Little Feet cannot speed up the shrinking, it can freely stop it or return a shrunken item to its normal size, in which case the reversal is instantaneous and violent, a pen returned to normal, growing with enough force to impale Narancia's palm. Potentially, the target could continue to shrink until they are microscopic in size."
     },
-    "Love Deluxe": {
-        image: "ld_stand.png",
-        stats: "ld_stats.png",
-        link: "https://www.youtube.com/watch?v=CtthQ_JotFU",
-        power: "Love Deluxe is bound to Yukako's hair, allowing it to grow to various lengths and move with considerable strength and dexterity. Love Deluxe is precise enough that the hair can tie something as small as a tongue, but is also powerful enough to completely bind and immobilize someone. When angered, Yukako can unleash Love Deluxe and make her hair grow so long, it can cover and invade an entire house"
+    "Man In The Mirror": {
+        image: "maninthemirror_stand.png",
+        stats: "maninthemirror_stats.png",
+        link: "https://www.youtube.com/watch?v=Z9NYDgbKsBE",
+        power: "Man in the Mirror enables its user to enter a mirror world. Moreover, Man in the Mirror can also drag anything into the mirror world by using reflective surfaces as portals, selecting anything that can enter through Illuso's orders, and can do so regardless of how small the portal is. Breaking the mirror actually works in Illuso's favor via creating more openings leading to the mirror world. Only those Illuso and Man in the Mirror are about to drag into the mirror can see him, even if others are looking directly at the mirror. Moreover, it may also only select specific parts of an object to drag in or let out, thus it was able to only let in half of Abbacchio, effectively disabling him. Illuso can also play with multiple reflections in order to drag people through blind spots. If another Stand User is dragged into the mirror, Illuso can choose to forbid their Stand from entering with them and a summoned Stand will find itself alone in the real world, although it can be remotely manipulated by the User. This makes Man in the Mirror practically invincible inside the mirror, as it will be the only Stand present. However, Illuso can be tricked into letting a disguised Stand enter the mirror world."
     },
-    "Red Hot Chili Peppers": {
-        image: "rhcp_stand.png",
-        stats: "rhcp_stats.png",
-        link: "https://www.youtube.com/watch?v=YlUKcNNmywk",
-        power: "Red Hot Chili Pepper is a long range Stand based on electricity whose dangerousness increases dramatically when it is near electricity. Not only does its range and ability to pass through electrical systems make Otoishi impossible to find, when powered-up, it can physically overwhelm and outpace Crazy Diamond.[4][5] On the other hand, it is very dependent on its power source to act"
+    "Purple Haze": {
+        image: "purplehaze_stand.png",
+        stats: "purplehaze_stats.png",
+        link: "https://www.youtube.com/watch?v=WGoDaYjdfSg",
+        power: "Purple Haze is an unstable Stand that contains a particularly deadly, flesh-eating virus in each of the three bulbs on each of its hands. When a bulb breaks, usually because Purple Haze punches something, the virus is released and surrounds the Stand as a cloud of purple gas. In the case where Purple Haze is unable to shatter the bulbs through direct contact, it can release them from its knuckle like a pressurized gun so that they can shatter on impact. Any living thing that enters the range of the virus is immediately infected. The virus rapidly multiplies within the victims body, overrides their metabolic functions and makes them rot from the inside. An adult human being will melt into organic goo within 30 seconds. Fortunately, the virus, despite its deadly nature, is very fragile and the range is relatively short, the virus dies quickly when exposed to sunlight and light from any source is enough to kill the virus quickly. Because the virus indiscriminately attacks friends and foes alike, it makes Purple Haze a very dangerous Stand for Fugo's allies. Even its user isn't immune from the effects of the virus. The virus is effective on and can infect Stands as well."
     },
-    "Echoes ACT 2": {
-        image: "echoes2_stand.png",
-        stats: "echoes2_stats.png",
-        link: "https://www.youtube.com/watch?v=OcDiOUQBFd4",
-        power: "Although ACT2 is still physically weak, it now possesses a stronger and more versatile power than its previous form, making it more suited to direct confrontation. Foreshadowing the speed of ACT3, ACT2 also gains a massive increase in speed - fast enough to give the impression of disappearing into the air. Since it also has a long range (and Koichi can likely see through its eyes), as well as newfound speed, ACT2 is also used for scouting."
+    "Grateful Dead": {
+        image: "gratefuldead_stand.png",
+        stats: "gratefuldead_stats.png",
+        link: "https://www.youtube.com/watch?v=mzvk0fWtCs0",
+        power: "The Grateful Dead has the ability to cause organisms to age physically and mentally at an accelerated rate. It can age just about all living organisms; plants, fruits, animals, and humans - including even Prosciutto himself. There are two ways The Grateful Dead can deploy its power. The first mode is to spread the aging over a large area and indiscriminately attack friends and foes, which is dangerous for Prosciutto's companions. The second mode is to direct its power precisely by grabbing someone, in which case the aging is faster than one can react. The activation of this ability manifests itself as mist spreading from The Grateful Dead although it is unknown if the mist is directly connected to the aging. When under the effect of The Grateful Dead, people age rapidly with all the effects it implies: their skin develops wrinkles, their teeth begin to fall out, the tips of their limbs start to necrose, and their bones and joints shrink. Even fruits and flowers wither and dry up. A victim is also effected mentally; their cognitive ability is reduced, and they start to think and act with the mannerisms and/or stereotypes associated with the elderly, such as thinking about sitting in a nice garden. However, this could just be the victim's elderly personality, similar to how Sethan reverts its victims' minds. The degree of mental aging can vary, as seen when Narancia became senile and lethargic, while Giorno retained enough of his intellect to discern how The Grateful Dead's accelerated aging functioned."
     },
     "Pearl Jam": {
         image: "pj_stand.png",
