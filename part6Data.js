@@ -37,32 +37,32 @@ const part6Data = {
         power: "Burning Down the House allows Emporio to see, touch and use the ghosts of objects and rooms. In 1984, Green Dolphin Street Prison caught fire and several rooms were completely burned down and eventually replaced through renovations. Emporio is able to see and use the ghosts of the objects destroyed in the fire, but also access the destroyed piano room through a hidden crack on a wall. Due to their nature, the objects are of limited use; for instance, a ghost chocolate bar can be tasted but not eaten as it falls through Emporio's mouth. However, he was able to use a ghost computer freely to do research. He can fit ghost objects in his pockets or a tiny bag regardless of their size."
     },
     "Goo Goo Dolls": {
-        image: "ts_stand.png",
-        stats: "ts_stats.png",
-        link: "https://www.youtube.com/watch?v=_Sz2HOAb54w",
-        power: "Surface's primary ability is to copy the appearance of another person. If the mannequin is touched by someone, it will perfectly copy that person's appearance, voice, and mannerisms, down to the fingerprints, as noted by Josuke. However, a screw on Surface's forehead enables people to tell them apart. As a Stand bound to a mannequin, no damage done to Surface will be reflected in Hazamada."
+        image: "googoodolls_stand.png",
+        stats: "googoodolls_stats.png",
+        link: "https://www.youtube.com/watch?v=NdYWuo9OFAw",
+        power: "Goo Goo Dolls has the ability to reduce the size of anyone within its range. It is hinted that it will work only on those targeted by Gwess' desire for friendship and control. When in range, Goo Goo Dolls can instantly shrink its victim to the size of a mouse, the size reduction is instantaneous and unnoticeable at first by the victim. On the other side, once a shrunken victim goes far enough from Gwess, they will grow back continuously. Gwess typically uses this power to get herself makeshift pets that she hides inside animal skins and plays with."
     },
     "Manhattan Transfer": {
-        image: "aq_stand.png",
-        stats: "aq_stats.png",
-        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
-        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+        image: "mant_stand.png",
+        stats: "mant_stats.png",
+        link: "https://www.youtube.com/watch?v=ARfARi-gpWc",
+        power: "Manhattan Transfer is able to read the air currents around it and react accordingly. The Stand can precisely sense the movements of the air around it, and transfer the information to Johngalli A. who can visualize what is happening around Manhattan Transfer with precision, guess the position of his target and even have an idea of their general appearance. Manhattan Transfer floats along air currents moving erratically, but then is able to move whenever it senses an object moving towards it through air current. Its precision is such that it can effortlessly avoid many falling water drops. Because it is dependent on reading air current, it is possible to fool Johngalli A. into misreading the wind, as creating different layers of gases will result in the distortion of the air currents."
     },
     "Highway To Hell": {
-        image: "bc_stand.png",
-        stats: "bc_stats.png",
-        link: "https://www.youtube.com/watch?v=JXQJpyQBShU",
-        power: "Bad Company is a battalion of miniature soldiers and military vehicles and is equipped as such. Each of Bad Company's soldiers is armed with an M16 assault rifles, a parachute, and combat knives. The Green Berets have the same equipment as the soldiers, but with the addition of a rappelling rope which allows them to climb objects or descend onto targets from above. The helicopters are armed with machine guns and missiles, and the tanks have scaled-down shells. Bad Company is also equipped with land mines"
+        image: "h2h_stand.png",
+        stats: "h2h_stats.png",
+        link: "https://www.youtube.com/watch?v=l482T0yNkeo",
+        power: "Highway to Hell possesses no combat ability whatsoever, but its ability to share damage, combined with Thunder McQueen's pathologically suicidal tendency, makes it a surprisingly dangerous Stand. When McQueen attempts to kill himself, he can also make someone die alongside him in the same way he does. When McQueen applies Highway to Hell on someone, the target will suffer the same damage he inflicts upon himself, through Highway to Hell manifesting itself on the victims body as the source of the harm. For instance, if McQueen tries to hang himself, Highway to Hell manifests itself around the victim's neck with traces of a noose crushing their throat; when McQueen tries to drown himself, Highway to Hell appears as a liquid mass covering the mouth and nose of the victim. Highway to Hell's stats even suggest that McQueen starving himself could possibly work. Moreover, the person linked to McQueen also takes the same pose as him."
     },
     "Marilyn Manson": {
-        image: "ld_stand.png",
-        stats: "ld_stats.png",
-        link: "https://www.youtube.com/watch?v=CtthQ_JotFU",
-        power: "Love Deluxe is bound to Yukako's hair, allowing it to grow to various lengths and move with considerable strength and dexterity. Love Deluxe is precise enough that the hair can tie something as small as a tongue, but is also powerful enough to completely bind and immobilize someone. When angered, Yukako can unleash Love Deluxe and make her hair grow so long, it can cover and invade an entire house"
+        image: "mm_stand.png",
+        stats: "mm_stats.png",
+        link: "https://www.youtube.com/watch?v=WPlO_iEWFQc",
+        power: "After the User and a potential victim bet on something and the victim loses, Marilyn Manson comes to collect the wager or anything equivalent. Like Osiris and Atum, Marilyn Manson activates after Miraschon or even itself makes a bet with someone. If the person with whom Miraschon bets with loses, Marilyn Manson materializes near them and proceeds to take from them any possession of value in order to pay up. Money directly flies into Marilyn Manson's hooks, but it can also mutilate the victim to take valuable body parts to sell to the black market, like gold teeth or their liver. It thinks by itself of what to collect in order to have the equivalent of the wager but refuses to collect anything that doesn't rightfully belong to the victim like stolen money, knowing this thanks to its ability to read the victim's mind. Marilyn Manson claims that it is merely the shadow within the loser's heart, who has recognized even slightly their loss, and therefore it cannot be attacked either by the loser or any ally. Hits simply phase through Marilyn Manson. It has been described in its stats as the victim acknowledging their fault and being unconsciously unable to defend themselves against what they recognize as a "legitimate" debt collection. Likewise, Marilyn Manson can overpower a Stand User who thinks of attacking Miraschon directly."
     },
     "Jumpin Jack Flash": {
-        image: "rhcp_stand.png",
-        stats: "rhcp_stats.png",
+        image: "jjf_stand.png",
+        stats: "jjf_stats.png",
         link: "https://www.youtube.com/watch?v=YlUKcNNmywk",
         power: "Red Hot Chili Pepper is a long range Stand based on electricity whose dangerousness increases dramatically when it is near electricity. Not only does its range and ability to pass through electrical systems make Otoishi impossible to find, when powered-up, it can physically overwhelm and outpace Crazy Diamond.[4][5] On the other hand, it is very dependent on its power source to act"
     },
