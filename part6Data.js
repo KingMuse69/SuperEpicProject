@@ -79,34 +79,34 @@ const part6Data = {
         power: "Survivor dramatically exacerbates the aggressiveness of those under its spell. Described by DIO as the weakest Stand, Survivor travels across wet surfaces and stimulates the human limbic system with a tiny electric potential of 0.07 Volts and an otherwise negligible current, which is stated to increase an individual's anger or fighting spirit. Any feeling of aggressiveness will be greatly multiplied to the point those affected by Survivor will fight each other with reckless abandon. For instance, Sonny Likir, a prison guard punched his comrade so hard he not only tore away part of Westwood's flesh, but also exposed his knuckles due to the intensity of the punch. Afterward, the victims may even actively seek confrontation regardless of the consequence, such as a prison guard releasing all the prisoners of the isolation ward to fight them. Since Guccio's own ability to make other people fight matches his Stand, he remains unaffected by it."
     },
     "Planet Waves": {
-        image: "ratt_stand.png",
-        stats: "ratt_stats.png",
-        link: "https://www.youtube.com/watch?v=0u8teXR8VE4",
-        power: "Ratt is a miniature cannon that can fire off barbed darts which will melt anything upon impact, be it flesh or even metal. Ratt can shoot its dart up to 60 meters away, fire in bursts, and can even bounce the dart off obstacles to hit from blind spots. Once hit, a large part of the body will immediately melt into organic material, a nearly impossible to heal injury that only Crazy Diamond could undo. The melted victims can then be molded into a shape such as a cube if multiple victims are clumped together, in which case the melted flesh fuses together and eventually takes a gelatinous texture."
+        image: "pw_stand.png",
+        stats: "pw_stats.png",
+        link: "https://www.youtube.com/watch?v=Frj2CLGldC4",
+        power: "Planet Waves draws distant meteoroids toward its user, colliding with any person or object within their vicinity. It attracts small rocks from space, which then fall to Earth precisely toward the user with enough speed that they can tear off chunks of the body and cannot be heard until impact. Moreover, the meteoroids heat up to 3000 °C during their entry, increasing their lethality. The meteors appear in a time span of anywhere from minutes to seconds between each meteor"
     },
     "Dragons Dream": {
-        image: "echoes3_stand.png",
-        stats: "echoes3_stats.png",
-        link: "https://www.youtube.com/watch?v=OcDiOUQBFd4",
-        power: "ACT3's signature ability, with which it applies a freezing or stopping effect by greatly increasing the weight of its target by punching it, typically adopting a fighting stance while joining the hands together while doing so and producing an aura. For example, Killer Queen's Sheer Heart Attack is forcibly sunk into the pavement by this ability, and, according to its user, the effects were as if there were 40-50 kilograms of weight on his left hand. The weight increase does have drawbacks: 3 Freeze can only affect one thing at a time, and the effect ceases if the target moves more than 5 meters away from Koichi. The closer the target is to Koichi, the heavier it feels."
+        image: "dragonsdream_stand.png",
+        stats: "dragonsdream_stats.png",
+        link: "https://www.youtube.com/watch?v=nPqc0vrtsaw",
+        power: "Dragon's Dream is an unusual Stand in that it is functionally neutral during a fight and cannot attack, leaving Kenzou the responsibility of defeating the enemy personally. However, as Kenzou knows how to use the Feng Shui power of Dragon's Dream to the fullest, the old man still possesses a tremendous advantage. Dragon's Dream allows Kenzou to usually finish off his opponents in one strike, and only the resilience of Foo Fighters combined with Anasui's timely intervention could defeat him."
     },
     "Yo-Yo Ma": {
-        image: "c_stand.png",
-        stats: "c_stats.png",
-        link: "https://www.youtube.com/watch?v=i28UEoLXVFQ",
-        power: "Cinderella is able to replace select parts of one's outer body by creating a replacement for it from the slots on its hand and then sliding the hand into the body to replace said part. Determining what a client should look like via a computer program,[2] Aya can then modify whatever she believes needs to be modified at her leisure. Because of the rules of physiognomy, by altering their outward appearance, she is able to modify their destiny. She primarily uses this power to change her clients love life in whatever way they have paid her to do. The client must remain immobile during the body part replacement process, or Aya may botch the procedure. The effects are temporary and last only 30 minutes; Aya uses that weakness as a business tool to push her clients into continuously coming back."
+        image: "yoyoma_stand.png",
+        stats: "yoyoma_stats.png",
+        link: "https://www.youtube.com/watch?v=1prweT95Mo0",
+        power: "Yo-Yo Ma is an Automatic Stand characterized by its high range, autonomy, and resilience, allowing D an G to sic it on Jolyne Cujoh and wait from afar until Yo-Yo Ma kills her with its acid. Yo-Yo Ma is shown to be near indestructible, taking 6 shots from a pistol, getting punched multiple times by Stone Free without taking any damage and wasn't even killed when disabled by Narciso Anasui with the user instead being beaten. Unlike most automatic Stands, Yo-Yo Ma possesses a high degree of intellect. It knows a fair deal about survival in the swamps, how to pilot a hovercraft, and how to craft miscellaneous useless items out of junk like a chair out of twigs. The only instructions it receives are general goals to achieve such as killing Jolyne and retrieving the Green Baby. It is then free to act as it pleases and will dispose of any person in its way"
     },
     "Green Green Grass of Home": {
-        image: "h_stand.png",
-        stats: "h_stats.png",
-        link: "https://www.youtube.com/watch?v=fOUNzIbz9K4",
-        power: "Harvest is a long range colony Stand one can underestimate because of its and Shigechi's innocuous appearance, its basic power, and the petty way in which it is used to gather lost coins and other knickknacks across Morioh. However, the number of units coupled with their ability to still punch into the flesh means that Harvest can easily overwhelm even Josuke and Okuyasu,[2] and Shigechi is imaginative in the way he uses his Stand, making it a force to be reckoned with in battle."
+        image: "g3oh_stand.png",
+        stats: "g3oh_stats.png",
+        link: "https://www.youtube.com/watch?v=EmT1ptv3VEc",
+        power: "Green, Green Grass of Home causes everything around the Green Baby to shrink the closer they are to it. Beginning at an undisclosed distance from the Green Baby, anything, be they objects or people, is reduced in size proportionally to their proximity to the Baby. If someone halves the distance their size is halved as well. As such, it's impossible to actually reach the Green Baby. If someone moves away from the child, they will grow back appropriately. Should a person get close enough to the vanishing point, at a point close to the child, Green, Green Grass of Home will manifest itself and attack them. Although it can force its victim onto the Green Baby, supposedly attempting to wipe the person from existence as they vanish into an infinitely small size, it can eventually resort to killing target through more conventional means, such as using its towering size compared to the shrunken victim to crush them"
     },
     "Jail House Lock": {
-        image: "b2m_stand.png",
-        stats: "b2m_stats.png",
-        link: "https://www.youtube.com/watch?v=zDKO6XYXioc",
-        power: "Boy II Man's power is to steal the energy of an opponent whenever Ken beats them in a game of Rock Paper ScissorsW[2] (RPS). If Ken proposes to play a game of RPS and the opponent formally accepts, Boy II Man sets up a best-three-out-of-five game of RPS with the following rules: A draw nulls the round and it has to be played again until someone wins. Every time Ken wins a round, he takes a third of his opponent's energy and Stand. If the opponent manages to win three times, any of their energy that was previously stolen is returned to them and the game ends. When Ken wins a round, Boy II Man appears to take away one third of the opponent's Stand power. For instance, it literally tears away a third of Heaven's Door body and absorbs it inside the hole on Ken's cheek. Rohan is unharmed by the energy theft, but the corresponding body part begins to tire and falls under the control of Ken who can move it as he wants."
+        image: "jhl_stand.png",
+        stats: "jhl_stats.png",
+        link: "https://www.youtube.com/watch?v=PpsUOOfb-vE",
+        power: "Jail House Lock is triggered if someone or their Stand touches the bars or walls beyond the visiting room of Green Dolphin Street Prison, or if Miu Miu sics it on someone. Although they retain all their memories from before the instant it is activated, the victim is now only able to process and remember three new memories and when they learn a fourth thing, they will forget the first thing they've learned and so on. Several people, up to at least several dozens, can be affected at once. The power is extremely crippling as the victim find themselves distracted by a flow of new information, forgetting to perform any important task like finding Miu Miu to defeat her. Miu Miu herself claims that the continual memory loss eventually destroys its victim's ability to think. Miu Miu also exploits the memory loss to her advantage by distracting her enemies with many information so they completely forget about the actual attack."
     },
     "Bohemian Rhapsody": {
         image: "hs_stand.png",
