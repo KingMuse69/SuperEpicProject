@@ -96,29 +96,29 @@ const part5Data = {
         link: "https://www.youtube.com/watch?v=vXrpFxHfppI",
         power: "King Crimson's signature ability is to erase a given frame of time; it starts from the instant the ability is activated and can be made to last up to around 10 seconds. During this period of erased time, only Diavolo remains fully conscious and is the only one who can re-adjust his actions. Other people will be unable to experience anything that happens and will continue to act as they would have. After the effect of the ability ends, all people other than Diavolo will retain no memories of anything that happened during the erased period. After the allotted time frame, people will suddenly find themselves in the aftermath of the situation they were supposed to be in as the action could already be completed. For example, when Pannacotta Fugo asked Giorno Giovanna for the water bottle that they brought, the bottle was suddenly in Fugo's hand without Giorno ever actually handing it to him. Simply put, the Time Erasure ability removes the cause but the effect remains, as if you were to fast forward a program but still know what happened in that allotted time."
     },
-    "Harvest": {
-        image: "h_stand.png",
-        stats: "h_stats.png",
-        link: "https://www.youtube.com/watch?v=fOUNzIbz9K4",
-        power: "Harvest is a long range colony Stand one can underestimate because of its and Shigechi's innocuous appearance, its basic power, and the petty way in which it is used to gather lost coins and other knickknacks across Morioh. However, the number of units coupled with their ability to still punch into the flesh means that Harvest can easily overwhelm even Josuke and Okuyasu,[2] and Shigechi is imaginative in the way he uses his Stand, making it a force to be reckoned with in battle."
+    "Clash": {
+        image: "clash_stand.png",
+        stats: "clash_stats.png",
+        link: "https://www.youtube.com/watch?v=BN1WwnEDWAM",
+        power: "Clash is a fish Stand, thus it must stay inside liquids to persist and is only able to make brief leaps out of liquid to attack. However, it can instantly teleport into any body of liquid of a minimal size near the one it is occupying at the moment. Liquids it has occupied include hot soup, wine, fresh or sea water, and even Narancia's tears. Clash can also sink inside and emerge out bodies of liquid as if they have depth despite being extremely shallow, as well as take anything or anyone along with it when transferring between liquids. Thus it could drag Giorno away through a puddle of water from a leaking pipe. However it cannot teleport into sealed bodies of liquid or teleport more than 2 or 3 meters away from its current position according to Narancia. Moreover the warping process can become slower if Clash is hurt."
     },
-    "Boy 2 Man": {
-        image: "b2m_stand.png",
-        stats: "b2m_stats.png",
-        link: "https://www.youtube.com/watch?v=zDKO6XYXioc",
-        power: "Boy II Man's power is to steal the energy of an opponent whenever Ken beats them in a game of Rock Paper ScissorsW[2] (RPS). If Ken proposes to play a game of RPS and the opponent formally accepts, Boy II Man sets up a best-three-out-of-five game of RPS with the following rules: A draw nulls the round and it has to be played again until someone wins. Every time Ken wins a round, he takes a third of his opponent's energy and Stand. If the opponent manages to win three times, any of their energy that was previously stolen is returned to them and the game ends. When Ken wins a round, Boy II Man appears to take away one third of the opponent's Stand power. For instance, it literally tears away a third of Heaven's Door body and absorbs it inside the hole on Ken's cheek. Rohan is unharmed by the energy theft, but the corresponding body part begins to tire and falls under the control of Ken who can move it as he wants."
+    "Talking Heads": {
+        image: "talkingheads_stand.png",
+        stats: "talkingheads_stats.png",
+        link: "https://www.youtube.com/watch?v=cl3B_FTDKD0",
+        power: "To take effect, Talking Head must first latch onto the victim's tongue. While Talking Head is attached, the victim is automatically forced to tell lies: whether the victim speaks, writes, or gesticulates, they will always express something false. If Tiziano so desires, Talking Head can force a victim to speak up and tell lies or remain silent, depending on the victim's resilience. Tiziano can also freely toggle Talking Head's power, suddenly enabling his victim to tell the truth at an opportune moment to better manipulate his targets. While partially controlled by Talking Head, the victims are fully aware that they are forced into lying. A savvy interlocutor may understand that something is wrong by watching the clearly distressed victim of Talking Head"
     },
-    "Highway Star": {
-        image: "hs_stand.png",
-        stats: "hs_stats.png",
-        link: "https://www.youtube.com/watch?v=Wr9ie2J2690",
-        power: "Highway Star is a long-range Stand; defined by mediocre fighting power and a long range of action with above average speed, which enables Yuya to pilot his Stand rather precisely while resting far from danger. Highway Star possesses a disjointed set of powers that make fighting it a perilous endeavor, and even Josuke must flee the Stand to find the user and beat him. Two of its basic but most remarkable characteristics are its speed and range: Highway Star can run up to 60 km/h (roughly 37 mp/h) and indefinitely maintain that running speed in order to chase after its prey;[3] moreover its chase after Josuke around Morioh while Yuya was in Grape Hills Hospital[4] demonstrates its great range. It is also able to throw a brief punching barrage."
+    "Notorious BIG": {
+        image: "notoriousbig_stand.png",
+        stats: "notoriousbig_stats.png",
+        link: "https://www.youtube.com/watch?v=k1qpgQr8wXk",
+        power: "While Notorious B.I.G can be summoned while Carne is alive, the Stand is said to only activate upon its User's death, drawing energy from Carne's grudge. This is one of its main features and gets rid of a potential weakness. Initially, Notorious B.I.G seems to have no body after the death of its user, instead constructing one by absorbing matter and energy from an outside source. As this body is made of physical matter, it is vulnerable to mundane damage such as being flung into objects or getting impaled; however, any surviving pieces will remain active and capable of regenerating themselves. Upon activation, Notorious B.I.G slowly infects anyone that has touched the remains of its user and eats away at flesh and energy in order to grow a body; this includes Stand energy and energy from automated objects like an engine. Through this ability, Notorious B.I.G can grow to a great volume with enough energy, eventually reaching a size comparable to a jet plane. More importantly, one speck of it can completely recover from near-destruction as long as it reaches a source of energy to feed on, making it nigh-impossible to defeat. Its ability to absorb Stand energy makes it immune to Stand attacks, enabling it to seek out Stands in order to feed on them."
     },
-    "Super Fly": {
-        image: "sf_stand.png",
-        stats: "sf_stats.png",
-        link: "https://www.youtube.com/watch?v=muLcm3_JSR4",
-        power: "Super Fly's defining ability is that it imprisons one occupant inside it. It is mentioned that the energy of the sole prisoner is how it sustains itself. Toyohiro is the first prisoner of the tower and cannot leave until someone else steps in it. If that happens, the first of the two to exit the tower is free to leave while the other one must stay inside. Leaving the tower only requires not standing inside the structure, thus Toyohiro could hang on the side of Super Fly while Josuke was trapped. If the victim attempts to escape it, they will be covered in steel to restrict their movements. It is possible the victim could be perpetually covered if they do not pull themselves back in time and Toyohiro claims that any would-be escapee will be absorbed into the tower."
+    "Spice Girl": {
+        image: "spicegirl_stand.png",
+        stats: "spicegirl_stats.png",
+        link: "https://www.youtube.com/watch?v=gJLIiF15wjQ",
+        power: "Spice Girl is able to soften any material she strikes. When Spice Girl hits something with her fists, she can soften said object into a rubber-like consistency. Any material, even metal or rock, will be softened into the same state. Said objects gain consistency and elasticity akin to rubber or putty, unable to be crushed even by a strong Stand like Notorious B.I.G or be punctured by any force including sharp objects and thus making said object actually many times more resilient. She can even soften moving objects like bullets, causing projectiles to merely flatten upon contact. Not only that, moving objects that are softened retain their kinetic energy when returned to normal, allowing Trish to unleash surprise attacks using projectiles that were thought to be neutralized. Because of the elasticity, the object accumulates energy when deformed and, when allowed to return to normal can create a sudden, violent backlash. The softness can persist even if contact between Spice Girl and the object is broken. She may also freely undo her power when needed."
     },
     "Earth, Wind & Fire": {
         image: "ewf_stand.png",
