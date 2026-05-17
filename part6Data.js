@@ -19,22 +19,22 @@ const part6Data = {
         power: "Foo Fighters' peculiar nature as a sentient colony of plankton gives it several abilities. First and foremost, Foo Fighters' nature means that it has no physical weakness. There is no limb to hurt or vital point to strike in order to kill it and thus it is impervious to conventional attacks. Only by damaging the whole colony can Foo Fighters be threatened. Although fragile individually, the colony can muster enough strength to pry open an automatic door. As a hive mind, Foo Fighters is able to produce sub-bodies by splitting the colony into several like-minded but independent parts. This ability allows Foo Fighters to effectively fight multiple opponents and generally act stealthily in the middle of battle. Even if a large majority of the plankton dies, only one needs to survive in order for Foo Fighters to be able to regenerate. As long as there is water, the plankton colony can rapidly multiply, creating a new part of Foo Fighters rapidly and giving it great regeneration ability. With enough water, Foo Fighters can even cover a whole room and use its mass to attack"
     },
     "Diver Down": {
-        image: "sp_stand.png",
-        stats: "sp_stats.png",
-        link: "https://www.youtube.com/watch?v=oG7jKUHsLfY",
-        power: "Star Platinum's primary ability is to manipulate time within a limited range, allowing it to slow down or stop time for a short period. This ability is particularly useful for avoiding attacks or gaining an advantage in combat. Additionally, Star Platinum can create a barrier of energy that protects the user from harm."
+        image: "dd_stand.png",
+        stats: "dd_stats.png",
+        link: "https://www.youtube.com/watch?v=YjOKti90xQA",
+        power: "Diver Down's signature ability is to phase through solids and then freely change their insides. By plunging inside an object or person, Diver Down can freely manipulate their internal structure; either to destroy them or piece them together anew. It can even dive into Stands to modify their structures, as when Anasui grafted a frog's brain into Yo-Yo Ma. Through this ability, Anasui can create complex structures like spring traps or freely change the whole form of the object, for instance displacing the opening and neck of a bottle along its side or changing someone's bone structure and muscle into springs. Diver Down can forcibly remove harmful but impossible to sever objects like parasitic plants in Jolyne's's body or do the reverse and embed foreign objects inside the body, like chocolates to change the shape of Anasui's face"
     },
     "Weather Report": {
-        image: "echoes1_stand.png",
-        stats: "echoes1_stats.png",
-        link: "https://www.youtube.com/watch?v=OcDiOUQBFd4",
-        power: "In ACT1 form, Echoes is a long-range Stand. It is very weak, its punch failing to hurt Tamami, and also slow. However, it has the longest range of all Acts and can go up to about 50 meters from its user, and it's suggested that either Koichi can see through ACT1's eyes, or it can report back to him, making it useful for scouting an area."
+        image: "wr_stand.png",
+        stats: "wr_stats.png",
+        link: "https://www.youtube.com/watch?v=HEU-m_KVuYI",
+        power: "Weather Report's ability is to control the weather through the manipulation of the atmosphere itself. Weather manipulates the surrounding atmosphere with his Stand, allowing him to freely summon several weather phenomena like wind, rain, or lightning to his advantage. Weather Report has enough precision that it can create micro-climates, but also a range great enough that it can make it rain 30 km away. The scale of the phenomena is also controllable; thus Weather Report can create heavy rain and fog over a large zone, but also a small sunny area in the middle of the rain."
     },
     "Burning Down The House": {
-        image: "tl_stand.png",
-        stats: "tl_stats.png",
-        link: "https://www.youtube.com/watch?v=QB9Feedxkjk",
-        power: "By making someone feel guilty, Tamami can summon The Lock, which appears bound to the victim's chest. Afterward, their guilt is multiplied continuously and can add up with other accusations, represented by The Lock growing bigger and heavier. The Lock will stay indefinitely even if it is moved away from Tamami, until the victim either feels so guilty they commit suicide, Tamami willingly cancels The Lock, or the source of the guilt disappears."
+        image: "bdth_stand.png",
+        stats: "bdth_stats.png",
+        link: "https://www.youtube.com/watch?v=_3eC35LoF4U",
+        power: "Burning Down the House allows Emporio to see, touch and use the ghosts of objects and rooms. In 1984, Green Dolphin Street Prison caught fire and several rooms were completely burned down and eventually replaced through renovations. Emporio is able to see and use the ghosts of the objects destroyed in the fire, but also access the destroyed piano room through a hidden crack on a wall. Due to their nature, the objects are of limited use; for instance, a ghost chocolate bar can be tasted but not eaten as it falls through Emporio's mouth. However, he was able to use a ghost computer freely to do research. He can fit ghost objects in his pockets or a tiny bag regardless of their size."
     },
     "Goo Goo Dolls": {
         image: "ts_stand.png",
