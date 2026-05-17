@@ -30,23 +30,23 @@ const part5Data = {
         link: "https://www.youtube.com/watch?v=cs4RG9u8IVU",
         power: "Moody Blues' primary ability is retrocognition; in particular the ability to reenact or to replay past events with utmost precision, allowing Abbacchio to freely investigate events. Moody Blues' can transform into a lookalike of any person of Abbacchio's choosing and then reenact that person's past actions and speech. Moody Blues has a digital timer on its forehead which indicates the point in time it is reenacting. Moody Blues can recreate events as far back as years (possibly decades) into the past; however, the farther away the event is in the past, the more time Moody Blues must spend immobile to reach it. Thus, it had to remain defenseless for possibly 8 to 10 minutes because Abbachio investigated Diavolo's past meeting with Donatella Una on the beaches of Sardinia 15 years ago. Every event happening to a particular location or person will be exactly recreated by Moody Blues, even if it shouldn't happen; for instance, Moody Blues reenacting Narancia past will produce music because Narancia listened to some. However, there are limits to what Moody Blues can replay, for instance, Clash's teleportation through water is impossible to reenact"
     },
-    "The Lock": {
-        image: "tl_stand.png",
-        stats: "tl_stats.png",
-        link: "https://www.youtube.com/watch?v=QB9Feedxkjk",
-        power: "By making someone feel guilty, Tamami can summon The Lock, which appears bound to the victim's chest. Afterward, their guilt is multiplied continuously and can add up with other accusations, represented by The Lock growing bigger and heavier. The Lock will stay indefinitely even if it is moved away from Tamami, until the victim either feels so guilty they commit suicide, Tamami willingly cancels The Lock, or the source of the guilt disappears."
+    "Sex Pistols": {
+        image: "sexpistols_stand.png",
+        stats: "sexpistols_stats.png",
+        link: "https://www.youtube.com/watch?v=yqrAPOZxgzU",
+        power: "The Pistols' ability is to literally ride the bullets that Mista fires in order to position themselves over an area (although they can hover around too), and then violently kick the bullets to change their path. Mista's most common use of this is to rebound shots, allowing the sudden redirection of bullets to hit moving targets, strike key areas, or otherwise take his opponents by surprise by using odd and unpredictable angles. If all 6 of Sex Pistols are on a single bullet, they have the power to split said bullet into multiple pieces when they all kick, creating multiple projectiles. The Pistols can block incoming bullets, and on one specific occasion, No.5 has even saved Mista from three close-proximity fatal shots fired to the head by Prosciutto. Mista also has the ability to shoot two bullets at the same time, shown when used against Sale. Although unexplained, the general consensus is that a Pistol shoots a bullet from another chamber by striking the primer at the same time that Mista fires."
     },
-    "Surface": {
-        image: "ts_stand.png",
-        stats: "ts_stats.png",
-        link: "https://www.youtube.com/watch?v=_Sz2HOAb54w",
-        power: "Surface's primary ability is to copy the appearance of another person. If the mannequin is touched by someone, it will perfectly copy that person's appearance, voice, and mannerisms, down to the fingerprints, as noted by Josuke. However, a screw on Surface's forehead enables people to tell them apart. As a Stand bound to a mannequin, no damage done to Surface will be reflected in Hazamada."
+    "Kraft Work": {
+        image: "kraftwork_stand.png",
+        stats: "kraftwork_stats.png",
+        link: "https://www.youtube.com/watch?v=OQIYEPe6DWY",
+        power: "Kraft Work's primary ability is the manipulation of kinetic energy, either taking away an object's kinetic energy completely, freezing it in place, or adding more kinetic energy to a previously frozen object, making it move once more. Kraft Work can take the kinetic energy out of anything it touches, locking those objects in place. This can either take the form of making an object be stuck to a particular space or making it motionless with respect to another object, including Sale himself. Kraft Work also allows Sale to make people partially stuck in place after they come in contact with something Kraft Work has affected. There is no limit to the number of objects Kraft Work can freeze in place, and the immobilization can be delayed after Kraft Work has touched it, allowing Sale to throw things in front of them and make them stop them mid-air."
     },
-    "Aqua Necklace": {
-        image: "aq_stand.png",
-        stats: "aq_stats.png",
-        link: "https://www.youtube.com/watch?v=0tjmAAdTrlM",
-        power: "Aqua Necklace's primary ability is a completely liquid and malleable form, allowing it to sneak, infiltrate, and inflict lethal damage from the inside."
+    "Aerosmith": {
+        image: "aerosmith_stand.png",
+        stats: "aerosmith_stats.png",
+        link: "https://www.youtube.com/watch?v=nf0oXY4nDxE",
+        power: "Aerosmith is a powerful battle-oriented Stand possessing not only a wide array of powerful weaponry to destroy its enemies but also boasts above-average nimbleness due to its nature, size, and good range. Moreover, its ability to detect carbon dioxide makes it a great scout and radar. Aerosmith is equipped with small machine guns on its wings shooting tracer bullets with infinite ammunition and a single bomb which it can drop on its enemies. Despite their reduced size, the weapons are still deadly. The tracer bullets can set gasoline on fire and shoot through a human body; the bomb has the power of a grenade. However, due to the Stand's poor precision, Narancia prefers to unleash Aerosmith's full arsenal with reckless abandon in a short period of time to compensate, the sheer number of shots fired making up for the lack of precision. As a last resort, the propeller itself can be used as a blade to slice enemies"
     },
     "Bad Company": {
         image: "bc_stand.png",
