@@ -52,7 +52,7 @@ function executeVaultCode() {
     switch (code) {
         case "PurpleFeedback":
             sandbox.innerHTML = `<p style='color: gold;'>Unlocking Knowledge Realm... Forwarding to Audio Novel Archive.</p>`;
-            window.open("https://www.youtube.com/watch?v=kR6Z8p_3X1E", "_blank");
+            window.open("https://www.youtube.com/watch?v=Kwf_gaEQpJY&list=TLPQMTgwNTIwMjb6V_Bk8SHZgQ&index=3", "_blank");
             break;
 
         case "MemeStream":
@@ -100,7 +100,7 @@ function executeVaultCode() {
             })();
             break;
 
-        case "ZaWarudoRadio":
+        case "MoriohRadio":
             window.radioBroadcaster = new ExtrasLabModules.EventEmitter();
             window.radioBroadcaster.on('broadcast', (data) => {
                 document.getElementById('radio-output').innerText = `[Morioh Cho Radio]: ${data}!!`;
