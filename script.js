@@ -48,7 +48,7 @@ function loadStand(name, partKey) {
 }
 
 function checkExtrasPassword() {
-    const passwordInput = prompt("Enter Password to view Hidden Extras:");
+    const passwordInput = prompt("Enter Password to view Hidden Extras(Hint: It's a food that Gyro sings about):");
     if (passwordInput === "PizzaMozarella") {
         navigateTo('extras-menu');
     } else if (passwordInput !== null) {
