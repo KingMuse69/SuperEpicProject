@@ -134,33 +134,57 @@
         <button onclick="navigateTo('parts-menu')" class="jojo-btn back-btn">BACK</button>
     </div>
 
-   <div id="extras-menu" class="screen">
+   <<div id="extras-menu" class="screen">
         <h2 class="title" style="color: #ff00ff; text-shadow: 4px 4px 0px gold, 6px 6px 0px black;">The Secret Vault</h2>
         
         <div class="info-box" style="text-align: center; margin-bottom: 20px;">
             <h3>Available Secret Codes:</h3>
             <ul style="text-align: left; font-family: sans-serif; font-size: 1rem; line-height: 1.6;">
                 <li><strong>PurpleFeedback</strong> - Unlock the forgotten story.</li>
+                <li><strong>GreatestSecret</strong> - Access the ultimate ancient wisdom.</li>
+                <li><strong>StandStorage</strong> - Open the Stand Custom Creator Deck.</li>
                 <li><strong>MemeStream</strong> - Infinite Stand power generator (Lab 1: Generators).</li>
                 <li><strong>SpeedwagonCache</strong> - Heavy math memoization machine (Lab 2: Memoization).</li>
                 <li><strong>StandBattleQueue</strong> - Prioritized matchmaker simulation (Lab 3: Priority Queue).</li>
                 <li><strong>DioStream</strong> - Process massive timeline chunks sequentially (Lab 4: Async Streams).</li>
                 <li><strong>ZaWarudoRadio</strong> - Live event transmitter system (Lab 5: EventEmitters).</li>
                 <li><strong>KiraProxy</strong> - Strictly filtered hand collection database access (Lab 6: Proxy Auth).</li>
-                <li><strong> RohanLogger</strong> - High-fidelity manuscript compiler log tracking (Lab 7: Logging Decorator).</li>
+                <li><strong>RohanLogger</strong> - High-fidelity manuscript compiler log tracking (Lab 7: Logging Decorator).</li>
             </ul>
         </div>
 
         <div style="margin: 20px auto; max-width: 400px;">
-            <input type="text" id="vault-console" placeholder="ENTER SECRET CODE..." style="width: 100%; padding: 10px; font-family: 'Staatliches', sans-serif; font-size: 1.5rem; letter-spacing: 2px; text-align: center; background: #111; color: #ff00ff; border: 3px solid gold;">
+            <input type="text" id="vault-console" placeholder="Enter secret code here..." style="width: 100%; padding: 10px; font-family: 'Arial', sans-serif; font-weight: bold; font-size: 1.2rem; text-align: center; background: #111; color: #ff00ff; border: 3px solid gold; border-radius: 4px; box-sizing: border-box;">
             <button onclick="executeVaultCode()" class="jojo-btn" style="margin-top: 10px; width: 100%;">EXECUTE CODE</button>
         </div>
 
         <div id="lab-sandbox" style="margin-top: 20px; padding: 15px; border: 2px dashed #ff00ff; min-height: 50px; background: rgba(0,0,0,0.4);">
-            <p style="color: #aaa; font-style: italic;">Console Idle... Enter a valid code to run a lab module.</p>
+            <p style="color: #aaa; font-style: italic;">Console Idle... Enter a valid code to run a module.</p>
         </div>
 
         <button onclick="navigateTo('main-menu')" class="jojo-btn back-btn" style="margin-top: 20px;">BACK TO MENU</button>
+    </div>
+
+    <div id="storage-select" class="screen">
+        <h2 class="title">Stand Storage Deck</h2>
+        <p class="info-box" style="text-align: center;">Welcome to your custom engine terminal. Insert your own custom entities seamlessly into the local runtime layer.</p>
+        
+        <div style="background: rgba(0,0,0,0.5); padding: 20px; border: 2px solid gold; margin-bottom: 20px; text-align: left; font-family: 'Arial', sans-serif;">
+            <h3 style="font-family: 'Staatliches', sans-serif; color: gold; font-size: 1.8rem; margin-top: 0;">Create Custom Stand</h3>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 15px;">
+                <input type="text" id="custom-name" placeholder="Stand Name (e.g. Star Platinum)" style="padding: 8px;">
+                <input type="text" id="custom-link" placeholder="YouTube Reference URL Link" style="padding: 8px;">
+                <input type="text" id="custom-img" placeholder="Image Name (e.g. sp.png)" style="padding: 8px;">
+                <input type="text" id="custom-stats" placeholder="Stats Diagram Name (e.g. sp_stats.png)" style="padding: 8px;">
+            </div>
+            <textarea id="custom-power" placeholder="Write full description of tactical abilities and attributes here..." style="width: 100%; height: 80px; padding: 8px; box-sizing: border-box; margin-bottom: 10px;"></textarea>
+            <button onclick="addNewStandToStorage()" class="jojo-btn" style="min-width: 150px; padding: 5px 15px; font-size: 1.2rem; margin: 0;">SAVE STAND ENTITY</button>
+        </div>
+
+        <div id="storage-roster-buttons" style="margin-bottom: 20px;">
+            </div>
+
+        <button onclick="navigateTo('extras-menu')" class="jojo-btn back-btn">BACK TO VAULT</button>
     </div>
 
     <div id="stand-profile" class="screen">
