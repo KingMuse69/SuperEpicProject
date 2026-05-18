@@ -134,12 +134,33 @@
         <button onclick="navigateTo('parts-menu')" class="jojo-btn back-btn">BACK</button>
     </div>
 
-    <div id="extras-menu" class="screen">
-        <h2 class="title" style="color: #ff00ff; text-shadow: 4px 4px 0px gold, 6px 6px 0px black;">Secret Extras</h2>
+   <div id="extras-menu" class="screen">
+        <h2 class="title" style="color: #ff00ff; text-shadow: 4px 4px 0px gold, 6px 6px 0px black;">The Secret Vault</h2>
+        
         <div class="info-box" style="text-align: center; margin-bottom: 20px;">
-            Welcome to the secret vault. Pizza Mozzarella, Pizza Mozzarella, Rella Rella Rella...
+            <h3>Available Secret Codes:</h3>
+            <ul style="text-align: left; font-family: sans-serif; font-size: 1rem; line-height: 1.6;">
+                <li><strong>PurpleFeedback</strong> - Unlock the forgotten story.</li>
+                <li><strong>MemeStream</strong> - Infinite Stand power generator (Lab 1: Generators).</li>
+                <li><strong>SpeedwagonCache</strong> - Heavy math memoization machine (Lab 2: Memoization).</li>
+                <li><strong>StandBattleQueue</strong> - Prioritized matchmaker simulation (Lab 3: Priority Queue).</li>
+                <li><strong>DioStream</strong> - Process massive timeline chunks sequentially (Lab 4: Async Streams).</li>
+                <li><strong>ZaWarudoRadio</strong> - Live event transmitter system (Lab 5: EventEmitters).</li>
+                <li><strong>KiraProxy</strong> - Strictly filtered hand collection database access (Lab 6: Proxy Auth).</li>
+                <li><strong> RohanLogger</strong> - High-fidelity manuscript compiler log tracking (Lab 7: Logging Decorator).</li>
+            </ul>
         </div>
-        <button onclick="navigateTo('main-menu')" class="jojo-btn back-btn">BACK TO MENU</button>
+
+        <div style="margin: 20px auto; max-width: 400px;">
+            <input type="text" id="vault-console" placeholder="ENTER SECRET CODE..." style="width: 100%; padding: 10px; font-family: 'Staatliches', sans-serif; font-size: 1.5rem; letter-spacing: 2px; text-align: center; background: #111; color: #ff00ff; border: 3px solid gold;">
+            <button onclick="executeVaultCode()" class="jojo-btn" style="margin-top: 10px; width: 100%;">EXECUTE CODE</button>
+        </div>
+
+        <div id="lab-sandbox" style="margin-top: 20px; padding: 15px; border: 2px dashed #ff00ff; min-height: 50px; background: rgba(0,0,0,0.4);">
+            <p style="color: #aaa; font-style: italic;">Console Idle... Enter a valid code to run a lab module.</p>
+        </div>
+
+        <button onclick="navigateTo('main-menu')" class="jojo-btn back-btn" style="margin-top: 20px;">BACK TO MENU</button>
     </div>
 
     <div id="stand-profile" class="screen">
