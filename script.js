@@ -52,7 +52,17 @@ function executeVaultCode() {
     switch (code) {
         case "PurpleFeedback":
             sandbox.innerHTML = `<p style='color: gold;'>Unlocking Knowledge Realm... Forwarding to Audio Novel Archive.</p>`;
-            window.open("https://www.youtube.com/watch?v=Kwf_gaEQpJY&list=TLPQMTgwNTIwMjb6V_Bk8SHZgQ&index=3", "_blank");
+            window.open("https://www.youtube.com/watch?v=kR6Z8p_3X1E", "_blank");
+            break;
+
+        case "GreatestSecret":
+            sandbox.innerHTML = `<p style='color: #ff00ff; font-weight: bold;'>Rickroll Counter-Measure Initiated!</p>`;
+            window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank");
+            break;
+
+        case "StandStorage":
+            sandbox.innerHTML = `<p style='color: lime;'>Opening Custom Stand Sandbox Deck...</p>`;
+            navigateTo('storage-select');
             break;
 
         case "MemeStream":
@@ -100,7 +110,7 @@ function executeVaultCode() {
             })();
             break;
 
-        case "MoriohRadio":
+        case "ZaWarudoRadio":
             window.radioBroadcaster = new ExtrasLabModules.EventEmitter();
             window.radioBroadcaster.on('broadcast', (data) => {
                 document.getElementById('radio-output').innerText = `[Morioh Cho Radio]: ${data}!!`;
@@ -131,6 +141,49 @@ function executeVaultCode() {
             break;
 
         default:
-            sandbox.innerHTML = `<p style="color: red; font-weight: bold;">INVALID CODE DEBUSH. System Alert Raised.</p>`;
+            sandbox.innerHTML = `<p style="color: red; font-weight: bold;">INVALID CODE DETECTED. System Alert Raised.</p>`;
     }
+}
+
+// Custom Dynamic CRUD Engine Logic for StandStorage Code Insertion
+function addNewStandToStorage() {
+    const name = document.getElementById('custom-name').value.trim();
+    const link = document.getElementById('custom-link').value.trim();
+    const image = document.getElementById('custom-img').value.trim();
+    const stats = document.getElementById('custom-stats').value.trim();
+    const power = document.getElementById('custom-power').value.trim();
+
+    if (!name || !power) {
+        alert("Stand Name and Power description are strictly mandatory!");
+        return;
+    }
+
+    // Save item directly into the global memory structure we linked up
+    extrasData[name] = {
+        image: image || "default_stand.png",
+        stats: stats || "default_stats.png",
+        link: link || "https://www.youtube.com",
+        power: power
+    };
+
+    // Clean out inputs
+    document.getElementById('custom-name').value = "";
+    document.getElementById('custom-link').value = "";
+    document.getElementById('custom-img').value = "";
+    document.getElementById('custom-stats').value = "";
+    document.getElementById('custom-power').value = "";
+
+    // Redraw the list of actionable selection buttons inside the roster element
+    renderStorageRoster();
+}
+
+function renderStorageRoster() {
+    const targetContainer = document.getElementById('storage-roster-buttons');
+    targetContainer.innerHTML = ""; // Clear list
+
+    Object.keys(extrasData).forEach(standName => {
+        targetContainer.innerHTML += `
+            <button onclick="loadStand('${standName}', 'extras')" class="jojo-btn">${standName}</button>
+        `;
+    });
 }
