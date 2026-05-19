@@ -14,7 +14,6 @@ function navigateTo(id) {
 }
 
 function loadStand(name, partKey) {
-    // Exact structural matching check
     if (!standDatabase[partKey] || !standDatabase[partKey][name]) {
         alert("Error: Stand data could not be located!");
         return;
@@ -55,12 +54,10 @@ function checkExtrasPassword() {
         alert("WRONG! You triggered Killer Queen's 3rd bomb, Bites The Dust!");
     }
 }
-// Sonic.exe / FNF Style Hidden Code Engine Execution Mapping
 function executeVaultCode() {
     const code = document.getElementById('vault-console').value.trim();
     const sandbox = document.getElementById('lab-sandbox');
     
-    // Clear console input area
     document.getElementById('vault-console').value = "";
 
     switch (code) {
