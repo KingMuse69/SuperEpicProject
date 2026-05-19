@@ -17,7 +17,7 @@ const ExtrasLabModules = {
         }
     },
 
-    // 2) Implementing a Memoization Function (Speedwagon Foundation Heavy Calculations)
+    // 2)Memoization Function (Speedwagon Foundation Heavy Calculations)
     memoize: function (fn) {
         const cache = new Map();
         return function (...args) {
@@ -31,7 +31,7 @@ const ExtrasLabModules = {
         };
     },
 
-    // 3) Implementing a Bi-Directional Priority Queue (Stand Battle Lineup)
+    // 3)Bi-Directional Priority Queue (Stand Battle Lineup)
     BiDirectionalPriorityQueue: class {
         constructor() {
             this.queue = [];
